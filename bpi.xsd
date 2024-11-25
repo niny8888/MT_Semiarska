@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2007 sp2 (http://www.altova.com) by Joze Coz (ZZZS Informacijski center) -->
+<xs:schema xmlns="http://zzzs.si/b2b/bpi" xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://zzzs.si/b2b/bpi" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:simpleType name="Opis15">
+		<xs:annotation>
+			<xs:documentation>Text dolžine 1-15</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:minLength value="1"/>
+			<xs:maxLength value="15"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Datum">
+		<xs:annotation>
+			<xs:documentation>Datum</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:date"/>
+	</xs:simpleType>
+	<xs:simpleType name="Sifra">
+		<xs:annotation>
+			<xs:documentation>Šifre v šifrantih</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="999"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="SifraLokacije">
+		<xs:annotation>
+			<xs:documentation>Šifra lokacije</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="99"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Sifra003">
+		<xs:annotation>
+			<xs:documentation>Šifra dolžine 3 z vodilnimi ničlami</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:minLength value="3"/>
+			<xs:maxLength value="3"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Opis40">
+		<xs:annotation>
+			<xs:documentation>Text dolžine 1-40</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:minLength value="1"/>
+			<xs:maxLength value="40"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Opis60">
+		<xs:annotation>
+			<xs:documentation>Text dolžine 1-60</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:minLength value="1"/>
+			<xs:maxLength value="60"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Opis140">
+		<xs:annotation>
+			<xs:documentation>Text dolžine 1-140</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:minLength value="1"/>
+			<xs:maxLength value="140"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="DodatniNazivOE">
+		<xs:annotation>
+			<xs:documentation>Text dolžine do 140</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:maxLength value="140"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="PosiljkaType">
+		<xs:annotation>
+			<xs:documentation>Pošiljka</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="VerzijaPosiljke" type="Opis15"/>
+			<xs:element name="DatumPosiljke" type="Datum"/>
+			<xs:element name="VerzijaSheme">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:minLength value="1"/>
+						<xs:maxLength value="5"/>
+						<xs:pattern value="1.0"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="Bpi">
+		<xs:annotation>
+			<xs:documentation>Podatki o izvajalcih zdravstvenih storitev</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Posiljka" type="PosiljkaType"/>
+				<xs:element name="IVZIzvajalec" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="SifraIVZIzvajalca" type="SifraIVZIzvajalcaType"/>
+			                                <xs:element name="SifraLokacije" type="SifraLokacije"/>
+			                                <xs:element name="ZZZSStevilka" type="ZZZSStevilkaType"/>
+							<xs:element name="OrganizacijskaStruktura" type="OrganizacijskaStrukturaType"/>
+							<xs:element name="NazivInNaslov" type="NazivInNaslov"/>
+							<xs:element name="PravniStatus" type="PravniStatusType"/>
+							<xs:element name="TipIzvajalca" type="TipIzvajalcaType"/>
+							<xs:element name="Obcina" type="ObcinaType"/>
+							<xs:element name="VeljaOd" type="Datum"/>
+							<xs:element name="VeljaDo" type="Datum" minOccurs="0"/>
+				                        <xs:element name="VZD" type="VZDType" minOccurs="0" maxOccurs="unbounded"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:simpleType name="SifraIVZIzvajalcaType">
+		<xs:annotation>
+			<xs:documentation>Šifra IVZ izvajalca</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="99999"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="OrganizacijskaStrukturaType">
+		<xs:annotation>
+			<xs:documentation>Podatki o IVZ organizacijski strukturi</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="SifraIVZNadrejeni" type="SifraIVZIzvajalcaType" minOccurs="0"/>
+			<xs:element name="SifraIVZOsnovni" type="SifraIVZIzvajalcaType" minOccurs="0"/>
+			<xs:element name="SifraIVZPodrejeni" type="SifraIVZIzvajalcaType" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="NazivInNaslov">
+		<xs:annotation>
+			<xs:documentation>naziv in naslov organizacijske enote</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="NazivOrganizacijskeEnote" type="Opis140"/>
+			<xs:element name="DodatniNazivOrganizacijskeEnote" type="DodatniNazivOE" minOccurs="0"/>
+			<xs:element name="UlicaOrganizacijskeEnote" type="Opis60"/>
+			<xs:element name="PostaOrganizacijskeEnote" type="Opis60"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="ZZZSStevilkaType">
+		<xs:annotation>
+			<xs:documentation>ZZZS številka poslovnega subjekta</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="999999999"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="PravniStatusType">
+		<xs:annotation>
+			<xs:documentation>Pravni status</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="PravniStatusSifra" type="Sifra"/>
+			<xs:element name="PravniStatusOpis" type="Opis40"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="TipIzvajalcaType">
+		<xs:annotation>
+			<xs:documentation>Tip Izvajalca</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="TipIzvajalcaSifra" type="Sifra"/>
+			<xs:element name="TipIzvajalcaOpis" type="Opis40"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ObcinaType">
+		<xs:annotation>
+			<xs:documentation>Občina</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="ObcinaSifra" type="Sifra"/>
+			<xs:element name="ObcinaNaziv" type="Opis40"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="VZDType">
+		<xs:annotation>
+			<xs:documentation>Vrste zdravstvenih dejavnosti</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="SifraVZD" type="Sifra003"/>
+			<xs:element name="OpisVZD" type="Opis40"/>
+                        <xs:element name="VeljaOd" type="Datum"/>
+                        <xs:element name="VeljaDo" type="Datum" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>
