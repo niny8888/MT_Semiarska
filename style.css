@@ -12,10 +12,8 @@ header {
 }
 
 .navbar {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 10px 0;
+    position: relative;
+    z-index: 2; /* Ensure the navbar has a higher stacking context than the map */
 }
 
 .dropdown {
@@ -24,36 +22,36 @@ header {
 }
 
 .dropbtn {
-    background-color: #444;
+    background-color: #3498db;
     color: white;
     padding: 10px 20px;
+    font-size: 16px;
     border: none;
     cursor: pointer;
-    font-size: 16px;
 }
 
 .dropdown-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
-    min-width: 150px;
+    min-width: 160px;
     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-    z-index: 1;
+    z-index: 10; /* Ensures the dropdown content appears above other elements */
 }
 
 .dropdown-content a {
     color: black;
-    padding: 10px;
+    padding: 12px 16px;
     text-decoration: none;
     display: block;
 }
 
 .dropdown-content a:hover {
-    background-color: #ddd;
+    background-color: #f1f1f1;
 }
 
 .dropdown:hover .dropdown-content {
-    display: block;
+    display: block; /* Show dropdown on hover */
 }
 
 .dropdown:hover .dropbtn {
@@ -62,6 +60,8 @@ header {
 
 /* Map Styling */
 #map {
-    height: 90vh;
-    width: 100%;
+    height: 100vh; /* Full screen height */
+    width: 100%; /* Full width */
+    z-index: 1; /* Keep the map behind the navbar and dropdowns */
+    position: relative;
 }
