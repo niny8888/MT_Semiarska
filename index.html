@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cakalko</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="dropdown">
+                <button class="dropbtn">Menu 1</button>
+                <div class="dropdown-content">
+                    <a href="#">Option 1</a>
+                    <a href="#">Option 2</a>
+                    <a href="#">Option 3</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">Menu 2</button>
+                <div class="dropdown-content">
+                    <a href="#">Option A</a>
+                    <a href="#">Option B</a>
+                    <a href="#">Option C</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">Menu 3</button>
+                <div class="dropdown-content">
+                    <a href="#">Option X</a>
+                    <a href="#">Option Y</a>
+                    <a href="#">Option Z</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">Menu 4</button>
+                <div class="dropdown-content">
+                    <a href="#">Item 1</a>
+                    <a href="#">Item 2</a>
+                    <a href="#">Item 3</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <div id="map"></div>
+    </main>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Papa Parse (for parsing CSV) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <!-- Custom JS -->
+    <script src="script.js"></script>
+</body>
+
+</html>
