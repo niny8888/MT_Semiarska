@@ -11,6 +11,7 @@ header {
     color: #fff;
 }
 
+
 .navbar {
     position: relative;
     z-index: 2; /* Ensure the navbar has a higher stacking context than the map */
@@ -57,6 +58,83 @@ header {
 .dropdown:hover .dropbtn {
     background-color: #555;
 }
+/* Main Content Layout */
+.container {
+    display: flex;
+    height: calc(100vh - 60px); /* Adjust height minus the header */
+    width: 100%;
+}
+/* Tabs */
+.tabs {
+    display: flex;
+    margin-bottom: 20px;
+    gap: 10px;
+}
+
+.tab {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.tab:hover {
+    background-color: #0056b3;
+}
+
+.tab.active {
+    background-color: #0056b3;
+}
+
+/* Forms */
+.form {
+    display: none;
+}
+
+.form.active {
+    display: block;
+}
+
+/* Search Bar */
+.search-bar {
+    width: 30%;
+    background-color: #f9f9f9;
+    padding: 20px;
+    box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+}
+
+.search-bar h2, .search-bar h3 {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+/* Hide non-active forms */
+.form {
+    display: none;
+}
+
+.form.active {
+    display: block;
+}
+
+
 
 /* Map Styling */
 #map {

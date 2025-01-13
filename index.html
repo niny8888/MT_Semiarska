@@ -15,18 +15,17 @@
     <header>
         <nav class="navbar">
             <div class="dropdown">
-                <button class="dropbtn">Menu 1</button>
-                <div class="dropdown-content">
-                    <a href="#">Option 1</a>
-                    <a href="#">Option 2</a>
-                    <a href="#">Option 3</a>
+                <button class="dropbtn">Čakalne dobe</button>
+                <div class="dropdown-content" id="search-type">
+                    <a href="#" data-type="service">Zdravstvena storitev</a>
+                    <a href="#" data-type="facility">Ustanova</a>
                 </div>
             </div>
             <div class="dropdown">
-                <button class="dropbtn">Select Type</button>
+                <button class="dropbtn">Tipi ustanov</button>
                 <div class="dropdown-content" id="typeDropdown"></div>
             </div>
-            <div class="dropdown">
+            <!-- <div class="dropdown">
                 <button class="dropbtn">Menu 3</button>
                 <div class="dropdown-content">
                     <a href="#">Option X</a>
@@ -41,14 +40,74 @@
                     <a href="#">Item 2</a>
                     <a href="#">Item 3</a>
                 </div>
-            </div>
+            </div> -->
         </nav>
     </header>
 
     <!-- Main Content -->
-    <main>
+    <!-- Main Content -->
+<main>
+    <div class="container">
+        <!-- Search Bar -->
+        <div class="search-bar">
+            <!-- Option 1: Čakalne dobe za zdravstveno storitev -->
+            <div id="form-service" class="form active">
+                <h3>Čakalne dobe za zdravstveno storitev:</h3>
+                <label for="procedure">Izberi zdravstveno storitev:</label>
+                <select id="procedure">
+                    <option value="">Izberi...</option>
+                    <!-- Options populated dynamically -->
+                </select>
+
+                <label for="urgency">Izberite stopnjo nujnosti:</label>
+                <select id="urgency">
+                    <option value="">Izberi...</option>
+                    <option value="Zelo hitro">Zelo hitro</option>
+                    <option value="Redno">Redno</option>
+                    <option value="Hitro">Hitro</option>
+                </select>
+
+                <label for="region">Izberite regijo:</label>
+                <select id="region">
+                    <option value="Vse regije">Vse regije</option>
+                    <option value="Gorenjska regija">Gorenjska regija</option>
+                    <option value="Goriška regija">Goriška regija</option>
+                    <option value="Jugovzhodna Slovenija">Jugovzhodna Slovenija</option>
+                    <option value="Koroška regija">Koroška regija</option>
+                    <option value="Obalno-kraška regija">Obalno-kraška regija</option>
+                    <option value="Osrednjeslovenska regija">Osrednjeslovenska regija</option>
+                    <option value="Podravska regija">Podravska regija</option>
+                    <option value="Pomurska regija">Pomurska regija</option>
+                    <option value="Posavska regija">Posavska regija</option>
+                    <option value="Primorsko-notranjska regija">Primorsko-notranjska regija</option>
+                    <option value="Savinjska regija">Savinjska regija</option>
+                    <option value="Zasavska regija">Zasavska regija</option>
+                </select>
+            </div>
+
+            <!-- Option 2: Čakalne dobe za zdravstveno ustanovo -->
+            <div id="form-facility" class="form">
+                <h3>Čakalne dobe za zdravstveno ustanovo:</h3>
+                <label for="facility">Izberite zdravstveno ustanovo:</label>
+                <select id="facility">
+                    <option value="">Izberi...</option>
+                    <!-- Options populated dynamically -->
+                </select>
+
+                <label for="urgency-facility">Izberite stopnjo nujnosti:</label>
+                <select id="urgency-facility">
+                    <option value="">Izberi...</option>
+                    <option value="Zelo hitro">Zelo hitro</option>
+                    <option value="Redno">Redno</option>
+                    <option value="Hitro">Hitro</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Map Area -->
         <div id="map"></div>
-    </main>
+    </div>
+</main>
 
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>

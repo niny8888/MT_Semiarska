@@ -121,5 +121,67 @@ Papa.parse("facilitiesInfo.csv", {
     }
 });
 
+document.addEventListener("DOMContentLoaded", function () {
+    // Get references to the custom dropdown and forms
+    const searchTypeLinks = document.querySelectorAll("#search-type a");
+    const formService = document.getElementById("form-service");
+    const formFacility = document.getElementById("form-facility");
+
+    // Handle dropdown link clicks
+    searchTypeLinks.forEach(link => {
+        link.addEventListener("click", function (event) {
+            event.preventDefault(); // Prevent default link behavior
+            const selectedType = this.getAttribute("data-type");
+
+            // Show/hide forms based on selection
+            if (selectedType === "service") {
+                formService.classList.add("active");
+                formFacility.classList.remove("active");
+            } else if (selectedType === "facility") {
+                formFacility.classList.add("active");
+                formService.classList.remove("active");
+            }
+        });
+    });
+
+    // Populate procedure types from procedures.csv
+    Papa.parse("procedures.csv", {
+        download: true,
+        header: true,
+        skipEmptyLines: true,
+        complete: function (results) {
+            const procedureDropdown = document.getElementById("procedure");
+            results.data.forEach(procedure => {
+                if (procedure.name && procedure.name.trim() !== "") { // Check for non-empty fullname
+                    const option = document.createElement("option");
+                    option.value = procedure.name;
+                    option.textContent = procedure.name;
+                    procedureDropdown.appendChild(option);
+                }
+            });
+        }
+    });
+    
+    
+
+    // Populate facilities from facilities.csv
+    Papa.parse("facilities.csv", {
+        download: true,
+        header: true,
+        skipEmptyLines: true,
+        complete: function (results) {
+            const facilityDropdown = document.getElementById("facility");
+            results.data.forEach(facility => {
+                const option = document.createElement("option");
+                option.value = facility["Facility Name"]; // Use the facility name field
+                option.textContent = facility["Facility Name"];
+                facilityDropdown.appendChild(option);
+            });
+        }
+    });
+});
+
+
+
 // Handle map clicks (preserving your event listener)
 map.on('click', onMapClick);
