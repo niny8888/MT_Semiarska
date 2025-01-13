@@ -58,12 +58,4 @@ Papa.parse("facilitiesInfo.csv", {
     }
 });
 
-// Handle map clicks to display coordinates
-function onMapClick(e) {
-    popup
-        .setLatLng(e.latlng)
-        .setContent("You clicked the map at " + e.latlng.toString())
-        .openOn(map);
-}
-
 map.on('click', onMapClick);
