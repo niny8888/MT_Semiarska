@@ -1,42 +1,74 @@
 // Initialize the map
-var map = L.map('map').setView([46.1512, 14.9955], 9); // Center the map to Slovenia
+const map = L.map("map").setView([46.1512, 14.9955], 9); // Center the map to Slovenia
 
 // Add the tile layer (OpenStreetMap)
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19,
-    attribution: '© OpenStreetMap'
+    attribution: "© OpenStreetMap",
 }).addTo(map);
 
-// Add a popup instance
-var popup = L.popup();
-var markers = [];
+let popup = L.popup(); // Popup instance
+let markers = []; // Array to hold all markers
+let tempMarker = null; // Temporary marker for user-selected locations
+let locationInputMode = false; // Tracks if location input mode is active
 
-// Populate dropdown dynamically
+(function () {
+    // Wrap everything in an IIFE to avoid global scope pollution
+    const searchTypeDropdown = document.getElementById("search-type");
+    const formService = document.getElementById("form-service");
+    const formFacility = document.getElementById("form-facility");
+
+    // Check if elements exist to prevent errors
+    if (searchTypeDropdown && formService && formFacility) {
+        // Add event listeners for the dropdown links
+        searchTypeDropdown.addEventListener("click", function (event) {
+            const target = event.target; // Get the clicked element
+            if (target.tagName === "A") {
+                event.preventDefault(); // Prevent default link behavior
+                const selectedType = target.getAttribute("data-type");
+
+                // Show/hide forms based on the selected type
+                if (selectedType === "service") {
+                    formService.classList.add("active");
+                    formFacility.classList.remove("active");
+                } else if (selectedType === "facility") {
+                    formFacility.classList.add("active");
+                    formService.classList.remove("active");
+                }
+            }
+        });
+    } else {
+        console.warn(
+            "Dropdown menu or forms not found. Ensure IDs 'search-type', 'form-service', and 'form-facility' are correctly set in the HTML."
+        );
+    }
+})();
+
+
+// Function to populate the dropdown dynamically
 function populateDropdown(types) {
     const allowedTypes = [
-        'dental_clinic', 
-        'dentist', 
-        'hospital', 
-        'doctor', 
-        'physiotherapist', 
-        'pharmacy', 
-        'spa', 
-        'health'
+        "dental_clinic",
+        "dentist",
+        "hospital",
+        "doctor",
+        "physiotherapist",
+        "pharmacy",
+        "spa",
+        "health",
     ]; // List of allowed types
 
-    const dropdown = document.getElementById('typeDropdown');
-    dropdown.innerHTML = ''; // Clear existing options
+    const dropdown = document.getElementById("typeDropdown");
+    dropdown.innerHTML = ""; // Clear existing options
 
-    allowedTypes.forEach(type => {
-        const option = document.createElement('a');
+    allowedTypes.forEach((type) => {
+        const option = document.createElement("a");
         option.textContent = type;
         option.href = "#";
-        option.addEventListener('click', () => filterMarkers(type)); // Call filterMarkers on click
+        option.addEventListener("click", () => filterMarkers(type)); // Call filterMarkers on click
         dropdown.appendChild(option);
     });
 }
-
-
 
 // Function to add a marker to the map
 function addMarker(facility) {
@@ -50,138 +82,148 @@ function addMarker(facility) {
         "Primary Type": type,
         "Accessibility Options": accessibility,
         "Maps URI": mapUri,
-        "Website URI": website
+        "Website URI": website,
     } = facility;
 
-    // Bind the popup with the facility details
+    // Add a marker with a popup showing facility details
     const marker = L.marker([parseFloat(lat), parseFloat(lng)])
         .addTo(map)
         .bindPopup(
             `<b>${name}</b><br>` +
-            `<i>${type}</i><br>` +
-            `${address}<br>` +
-            `<b>Opening Hours:</b> ${hours || "Not specified"}<br>` +
-            `<b>Phone:</b> ${phone || "Not specified"}<br>` +
-            `<b>Accessibility:</b> ${accessibility || "Not specified"}<br>` +
-            `<a href='${mapUri}' target='_blank'>View on Maps</a><br>` +
-            `<a href='${website}' target='_blank'>Visit Website</a>`
+                `<i>${type}</i><br>` +
+                `${address}<br>` +
+                `<b>Opening Hours:</b> ${hours || "Not specified"}<br>` +
+                `<b>Phone:</b> ${phone || "Not specified"}<br>` +
+                `<b>Accessibility:</b> ${accessibility || "Not specified"}<br>` +
+                `<a href='${mapUri}' target='_blank'>View on Maps</a><br>` +
+                `<a href='${website}' target='_blank'>Visit Website</a>`
         );
 
-    marker.type = type; // Store type for filtering
-    markers.push(marker);
+    marker.type = type; // Store the type for filtering
+    markers.push(marker); // Add marker to the global array
 }
 
 // Function to filter markers by type
 function filterMarkers(selectedType) {
-    markers.forEach(marker => {
+    markers.forEach((marker) => {
         if (marker.type === selectedType) {
-            marker.setIcon(L.icon({
-                iconUrl: `assets/img/${selectedType}.png`, // Use the image based on the type
-                iconSize: [30, 40], // Adjust icon size as needed
-                iconAnchor: [15, 40], // Anchor point for the icon
-                popupAnchor: [0, -35] // Position the popup above the marker
-            }));
-            marker.addTo(map); // Ensure the marker is visible
+            marker.setIcon(
+                L.icon({
+                    iconUrl: `assets/img/${selectedType}.png`, // Custom icon for selected type
+                    iconSize: [30, 40],
+                    iconAnchor: [15, 40],
+                    popupAnchor: [0, -35],
+                })
+            );
         } else {
-            marker.setIcon(L.icon({
-                iconUrl: 'assets/img/location_grey.png', // Default grey icon for unselected markers
-                iconSize: [30, 40],
-                iconAnchor: [15, 40],
-                popupAnchor: [0, -35]
-            }));
-            marker.addTo(map); // Ensure it is still visible
+            marker.setIcon(
+                L.icon({
+                    iconUrl: "assets/img/location_grey.png", // Default grey icon for other types
+                    iconSize: [30, 40],
+                    iconAnchor: [15, 40],
+                    popupAnchor: [0, -35],
+                })
+            );
         }
     });
 }
 
-
-
-
-// Load and parse the CSV file
+// Load and parse facilities from a CSV file
 Papa.parse("facilitiesInfo.csv", {
     download: true,
     header: true,
     skipEmptyLines: true,
-    complete: function(results) {
-        console.log(results.data); // Log the parsed data
-
-        const types = new Set(); // Store unique facility types
-        results.data.forEach(facility => {
-            // Ensure all necessary fields are present before adding the marker
+    complete: function (results) {
+        const types = new Set(); // Collect unique facility types
+        results.data.forEach((facility) => {
             if (facility.Latitude && facility.Longitude && facility["Facility Name"]) {
-                addMarker(facility);
-                if (facility["Primary Type"]) types.add(facility["Primary Type"]); // Collect unique types
-            } else {
-                console.warn("Incomplete data for facility:", facility);
+                addMarker(facility); // Add marker to the map
+                if (facility["Primary Type"]) types.add(facility["Primary Type"]); // Add to types set
             }
         });
+        populateDropdown(Array.from(types)); // Populate the dropdown
+    },
+});
 
-        // Populate dropdown with unique types
-        populateDropdown(Array.from(types));
+// Handle location selection using "My Location" button
+document.addEventListener("DOMContentLoaded", function () {
+    const locationButton = document.getElementById("location-input-btn");
+
+    if (locationButton) {
+        locationButton.addEventListener("click", function () {
+            locationInputMode = true;
+            alert("Click on the map to select a location.");
+        });
+    } else {
+        console.error("Button with ID 'location-input-btn' not found.");
     }
 });
 
-document.addEventListener("DOMContentLoaded", function () {
-    // Get references to the custom dropdown and forms
-    const searchTypeLinks = document.querySelectorAll("#search-type a");
-    const formService = document.getElementById("form-service");
-    const formFacility = document.getElementById("form-facility");
+// Handle map click events
+map.on("click", function (e) {
+    if (!locationInputMode) return; // Only process clicks if location input mode is active
 
-    // Handle dropdown link clicks
-    searchTypeLinks.forEach(link => {
-        link.addEventListener("click", function (event) {
-            event.preventDefault(); // Prevent default link behavior
-            const selectedType = this.getAttribute("data-type");
+    const { lat, lng } = e.latlng;
 
-            // Show/hide forms based on selection
-            if (selectedType === "service") {
-                formService.classList.add("active");
-                formFacility.classList.remove("active");
-            } else if (selectedType === "facility") {
-                formFacility.classList.add("active");
-                formService.classList.remove("active");
+    // Remove the previous marker, if any
+    if (tempMarker) {
+        map.removeLayer(tempMarker);
+    }
+
+    // Add a temporary marker at the clicked location
+    tempMarker = L.marker([lat, lng], {
+        icon: L.icon({
+            iconUrl: "assets/img/location_orange.png", // Custom icon for the temporary marker
+            iconSize: [30, 40],
+            iconAnchor: [15, 40],
+        }),
+    }).addTo(map);
+
+    tempMarker.bindPopup(
+        `<b>Selected Location</b><br>Lat: ${lat.toFixed(6)}, Lng: ${lng.toFixed(6)}`
+    ).openPopup();
+
+    // Exit location input mode
+    locationInputMode = false;
+
+    // Log the selected location for further processing
+    console.log(`Selected Location: Latitude ${lat}, Longitude ${lng}`);
+});
+
+// Populate procedure types from procedures.csv
+Papa.parse("procedures.csv", {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function (results) {
+        const procedureDropdown = document.getElementById("procedure");
+        results.data.forEach((procedure) => {
+            if (procedure.name && procedure.name.trim() !== "") {
+                const option = document.createElement("option");
+                option.value = procedure.name;
+                option.textContent = procedure.name;
+                procedureDropdown.appendChild(option);
             }
         });
-    });
+    },
+});
 
-    // Populate procedure types from procedures.csv
-    Papa.parse("procedures.csv", {
-        download: true,
-        header: true,
-        skipEmptyLines: true,
-        complete: function (results) {
-            const procedureDropdown = document.getElementById("procedure");
-            results.data.forEach(procedure => {
-                if (procedure.name && procedure.name.trim() !== "") { // Check for non-empty fullname
-                    const option = document.createElement("option");
-                    option.value = procedure.name;
-                    option.textContent = procedure.name;
-                    procedureDropdown.appendChild(option);
-                }
-            });
-        }
-    });
-    
-    
-
-    // Populate facilities from facilities.csv
-    Papa.parse("facilities.csv", {
-        download: true,
-        header: true,
-        skipEmptyLines: true,
-        complete: function (results) {
-            const facilityDropdown = document.getElementById("facility");
-            results.data.forEach(facility => {
+// Populate facility options from facilities.csv
+Papa.parse("facilities.csv", {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function (results) {
+        const facilityDropdown = document.getElementById("facility");
+        results.data.forEach((facility) => {
+            if (facility["Facility Name"] && facility["Facility Name"].trim() !== "") {
                 const option = document.createElement("option");
-                option.value = facility["Facility Name"]; // Use the facility name field
+                option.value = facility["Facility Name"];
                 option.textContent = facility["Facility Name"];
                 facilityDropdown.appendChild(option);
-            });
-        }
-    });
+            }
+        });
+    },
 });
 
 
-
-// Handle map clicks (preserving your event listener)
-map.on('click', onMapClick);

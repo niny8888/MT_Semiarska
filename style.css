@@ -70,6 +70,12 @@ header {
     margin-bottom: 20px;
     gap: 10px;
 }
+/* Optional for custom markers */
+.marker-icon {
+    width: 30px;
+    height: 40px;
+}
+
 
 .tab {
     flex: 1;
@@ -133,6 +139,34 @@ select {
 .form.active {
     display: block;
 }
+
+
+/* Marker */
+/* My Location Sticker */
+.mylocation-sticker {
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    z-index: 1000;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    padding: 5px;
+}
+
+.mylocation-sticker button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.mylocation-sticker img {
+    width: 40px;
+    height: 40px;
+}
+
+
 
 
 
