@@ -50,3 +50,64 @@ Papa.parse("facilitiesInfo.csv", {
         populateDropdown(Array.from(types));
     },
 });
+// Populate facility options from facilities.csv
+Papa.parse("facilities.csv", {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function (results) {
+        const facilityDropdown = document.getElementById("facility");
+        if (!facilityDropdown) {
+            console.error("Dropdown with ID 'facility' not found.");
+            return;
+        }
+
+        results.data.forEach((facility) => {
+            if (facility["Facility Name"] && facility["Facility Name"].trim() !== "") {
+                const option = document.createElement("option");
+                option.value = facility["Facility Name"];
+                option.textContent = facility["Facility Name"];
+                facilityDropdown.appendChild(option);
+            } else {
+                console.warn("Facility entry is invalid:", facility);
+            }
+        });
+
+        console.log("Facility dropdown populated successfully!");
+    },
+    error: function (error) {
+        console.error("Error parsing facilities.csv:", error);
+    },
+});
+
+
+// Populate procedure types from procedures.csv
+Papa.parse("procedures.csv", {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function (results) {
+        const procedureDropdown = document.getElementById("procedure");
+        if (!procedureDropdown) {
+            console.error("Dropdown with ID 'procedure' not found.");
+            return;
+        }
+
+        results.data.forEach((procedure) => {
+            if (procedure.name && procedure.name.trim() !== "") {
+                const option = document.createElement("option");
+                option.value = procedure.name;
+                option.textContent = procedure.name;
+                procedureDropdown.appendChild(option);
+            } else {
+                console.warn("Procedure entry is invalid:", procedure);
+            }
+        });
+
+        console.log("Procedure dropdown populated successfully!");
+    },
+    error: function (error) {
+        console.error("Error parsing procedures.csv:", error);
+    },
+});
+

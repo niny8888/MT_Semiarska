@@ -1,36 +1,35 @@
-(function () {
-    const searchTypeDropdown = document.getElementById("search-type");
-    const formService = document.getElementById("form-service");
-    const formFacility = document.getElementById("form-facility");
+// Example: Hide "Ustanova" form when clicking "Čakalne dobe"
+document.getElementById("search-type").addEventListener("click", function (event) {
+    const target = event.target;
+    if (target.tagName === "A") {
+        event.preventDefault();
 
-    if (searchTypeDropdown && formService && formFacility) {
-        searchTypeDropdown.addEventListener("click", function (event) {
-            const target = event.target;
-            if (target.tagName === "A") {
-                event.preventDefault();
-                const selectedType = target.getAttribute("data-type");
-
-                if (selectedType === "service") {
-                    formService.classList.add("active");
-                    formFacility.classList.remove("active");
-                } else if (selectedType === "facility") {
-                    formFacility.classList.add("active");
-                    formService.classList.remove("active");
-                }
-            }
+        // Hide all forms, including "Ustanova"
+        document.querySelectorAll(".form").forEach((form) => {
+            form.classList.remove("active");
         });
-    } else {
-        console.warn(
-            "Dropdown menu or forms not found. Ensure IDs 'search-type', 'form-service', and 'form-facility' are correctly set in the HTML."
-        );
-    }
-})();
 
+        const selectedType = target.getAttribute("data-type");
+
+        // Show the appropriate form
+        if (selectedType === "service") {
+            document.getElementById("form-service").classList.add("active");
+        } else if (selectedType === "facility") {
+            document.getElementById("form-facility").classList.add("active");
+        }
+    }
+});
+
+
+// Ensure only the "Ustanova" form is visible when clicking the dropdown button
 document.getElementById("open-search").addEventListener("click", () => {
+    // Hide all forms first
     document.querySelectorAll(".form").forEach((form) => {
         form.classList.remove("active");
     });
 
+    // Show the "Ustanova" form
     const facilitySearchForm = document.getElementById("search-about-facility");
     facilitySearchForm.classList.add("active");
 });
+

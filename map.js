@@ -1,5 +1,5 @@
 // Initialize the map
-const map = L.map("map").setView([46.1512, 14.9955], 9); // Center the map to Slovenia
+const map = L.map("map").setView([46.1512, 14.9955], 9); // Center of Slovenia
 
 // Add the tile layer (OpenStreetMap)
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -7,10 +7,10 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "© OpenStreetMap",
 }).addTo(map);
 
-let popup = L.popup(); // Popup instance
-let markers = []; // Array to hold all markers
-let tempMarker = null; // Temporary marker for user-selected locations
-let locationInputMode = false; // Tracks if location input mode is active
+let popup = L.popup(); 
+let markers = []; //usi markerji
+let tempMarker = null; 
+let locationInputMode = false; 
 
 // Function to add a marker to the map
 function addMarker(facility) {
@@ -50,7 +50,7 @@ function filterMarkers(selectedType) {
         if (marker.type === selectedType) {
             marker.setIcon(
                 L.icon({
-                    iconUrl: `assets/img/${selectedType}.png`, // Custom icon for selected type
+                    iconUrl: `assets/img/${selectedType}.png`,
                     iconSize: [30, 40],
                     iconAnchor: [15, 40],
                     popupAnchor: [0, -35],
@@ -59,7 +59,7 @@ function filterMarkers(selectedType) {
         } else {
             marker.setIcon(
                 L.icon({
-                    iconUrl: "assets/img/location_grey.png", // Default grey icon for other types
+                    iconUrl: "assets/img/location_grey.png",
                     iconSize: [30, 40],
                     iconAnchor: [15, 40],
                     popupAnchor: [0, -35],
@@ -81,7 +81,7 @@ map.on("click", function (e) {
 
     tempMarker = L.marker([lat, lng], {
         icon: L.icon({
-            iconUrl: "assets/img/location_orange.png", // Custom icon for the temporary marker
+            iconUrl: "assets/img/location_orange.png",
             iconSize: [30, 40],
             iconAnchor: [15, 40],
         }),

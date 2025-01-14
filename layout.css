@@ -42,3 +42,74 @@ select {
 .form.active {
     display: block;
 }
+
+/* Search Form Styling */
+#search-about-facility {
+    background-color: #f4f4f9; /* Soft background for contrast */
+    border: 1px solid #ddd; /* Subtle border */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px;
+    max-width: 400px;
+    margin: auto; /* Center alignment */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+}
+
+#search-about-facility h3 {
+    color: #007bff; /* Accent color */
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#search-about-facility label {
+    font-weight: bold;
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 5px;
+    display: block;
+}
+
+#search-about-facility input[type="text"],
+#search-about-facility select {
+    padding: 10px; /* Add padding on all sides */
+    padding-left: 10px; /* Specifically add padding on the left */
+    width: 100%;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    background-color: #fff;
+    box-sizing: border-box; /* Ensure padding doesn’t affect width */
+}
+
+
+
+#search-about-facility input:focus,
+#search-about-facility select:focus {
+    border-color: #007bff; /* Highlight border on focus */
+    outline: none;
+    box-shadow: 0 0 4px rgba(0, 123, 255, 0.5);
+}
+
+#search-about-facility button {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#search-about-facility button:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+#search-about-facility #search-results {
+    margin-top: 15px;
+    color: #ff0000; /* Red for unmatched results */
+    font-size: 14px;
+    text-align: center;
+}
