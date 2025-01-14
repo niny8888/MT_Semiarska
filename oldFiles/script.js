@@ -59,16 +59,33 @@ function populateDropdown(types) {
     ]; // List of allowed types
 
     const dropdown = document.getElementById("typeDropdown");
-    dropdown.innerHTML = ""; // Clear existing options
+    const searchTypeDropdown = document.getElementById("search-type");
+
+    if (!dropdown || !searchTypeDropdown) {
+        console.error("Dropdown elements not found.");
+        return;
+    }
+
+    // Clear existing options in both dropdowns
+    dropdown.innerHTML = "";
+    searchTypeDropdown.innerHTML = "";
 
     allowedTypes.forEach((type) => {
-        const option = document.createElement("a");
-        option.textContent = type;
-        option.href = "#";
-        option.addEventListener("click", () => filterMarkers(type)); // Call filterMarkers on click
-        dropdown.appendChild(option);
+        // Populate the `typeDropdown` (Ustanove)
+        const dropdownOption = document.createElement("a");
+        dropdownOption.textContent = type;
+        dropdownOption.href = "#";
+        dropdownOption.addEventListener("click", () => filterMarkers(type));
+        dropdown.appendChild(dropdownOption);
+
+        // Populate the `search-type` dropdown (Search by Type)
+        const searchOption = document.createElement("option");
+        searchOption.value = type;
+        searchOption.textContent = type.charAt(0).toUpperCase() + type.slice(1);
+        searchTypeDropdown.appendChild(searchOption);
     });
 }
+
 
 // Function to add a marker to the map
 function addMarker(facility) {
@@ -127,6 +144,17 @@ function filterMarkers(selectedType) {
         }
     });
 }
+document.getElementById("open-search").addEventListener("click", () => {
+    // Hide other forms
+    document.querySelectorAll(".form").forEach((form) => {
+        form.classList.remove("active");
+    });
+
+    // Show the facility search form
+    const facilitySearchForm = document.getElementById("search-about-facility");
+    facilitySearchForm.classList.add("active");
+});
+
 
 // Load and parse facilities from a CSV file
 Papa.parse("facilitiesInfo.csv", {
@@ -141,7 +169,7 @@ Papa.parse("facilitiesInfo.csv", {
                 if (facility["Primary Type"]) types.add(facility["Primary Type"]); // Add to types set
             }
         });
-        populateDropdown(Array.from(types)); // Populate the dropdown
+        populateDropdown(Array.from(types));
     },
 });
 

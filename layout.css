@@ -1,0 +1,44 @@
+/* Main Content Layout */
+.container {
+    display: flex;
+    height: calc(100vh - 60px); /* Adjust height minus the header */
+    width: 100%;
+}
+
+/* Search Bar */
+.search-bar {
+    width: 30%;
+    background-color: #f9f9f9;
+    padding: 20px;
+    box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+}
+
+.search-bar h2, .search-bar h3 {
+    margin-bottom: 15px;
+}
+
+.search-bar button {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* Forms */
+.form {
+    display: none;
+}
+
+.form.active {
+    display: block;
+}

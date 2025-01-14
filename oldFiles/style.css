@@ -72,7 +72,7 @@ header {
 }
 /* Optional for custom markers */
 .marker-icon {
-    width: 30px;
+    width: 40px;
     height: 40px;
 }
 
@@ -124,6 +124,19 @@ label {
     margin: 10px 0 5px;
     font-weight: bold;
 }
+#search-results {
+    margin-top: 20px;
+    font-size: 14px;
+    color: red; /* For unmatched search results */
+}
+.search-bar button {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
 
 select {
     width: 100%;
@@ -145,13 +158,14 @@ select {
 /* My Location Sticker */
 .mylocation-sticker {
     position: absolute;
-    top: 300px;
-    left: 300px;
-    z-index: 1000;
-    background-color: white;
-    border-radius: 50%;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-    padding: 5px;
+    bottom: 10px;
+    right: 10px;
+    background-color: white; /* Optional: for better visibility */
+    border-radius: 5px; /* Optional: for rounded corners */
+    padding: 5px; /* Optional: for spacing */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Optional: for a slight shadow */
+    z-index: 1000; /* Ensure it's on top of the map */
+    cursor: pointer;
 }
 
 .mylocation-sticker button {

@@ -7,8 +7,16 @@
     <title>Cakalko</title>
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="style.css">
+    <!-- CSS -->
+    <link rel="stylesheet" href="base.css">
+    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="layout.css">
+    <link rel="stylesheet" href="map.css">
+    <link rel="stylesheet" href="components.css">
+
+
+    
+
 </head>
 
 <body>
@@ -22,9 +30,9 @@
                 </div>
             </div>
             <div class="dropdown">
-                <button class="dropbtn">Tipi ustanov</button>
-                <div class="dropdown-content" id="typeDropdown"></div>
+                <button class="dropbtn" id="open-search">Ustanove</button>
             </div>
+            
             <!-- <div class="dropdown">
                 <button class="dropbtn">Menu 3</button>
                 <div class="dropdown-content">
@@ -91,7 +99,6 @@
                 <label for="facility">Izberite zdravstveno ustanovo:</label>
                 <select id="facility">
                     <option value="">Izberi...</option>
-                    <!-- Options populated dynamically -->
                 </select>
 
                 <label for="urgency-facility">Izberite stopnjo nujnosti:</label>
@@ -101,7 +108,28 @@
                     <option value="Redno">Redno</option>
                     <option value="Hitro">Hitro</option>
                 </select>
-        </div>
+            </div>
+            <div id="search-about-facility"class="form">
+                <h3>Search Facilities</h3>
+                <label for="search-name">Search by Name:</label>
+                <input type="text" id="search-name" placeholder="Enter facility name">
+            
+                <label for="search-type">Search by Type:</label>
+                <select id="search-type">
+                    <option value="">Select type...</option>
+                    <!-- Options populated dynamically -->
+                </select>
+            
+                <label for="search-address">Search by Address:</label>
+                <input type="text" id="search-address" placeholder="Enter address">
+            
+                <label for="search-phone">Search by Phone:</label>
+                <input type="text" id="search-phone" placeholder="Enter phone number">
+            
+                <button id="search-button">Search</button>
+                <div id="search-results"></div>
+            </div>
+            
         </div>
         
         
@@ -110,6 +138,7 @@
                 <img src="assets/img/location_orange.png" alt="My Location">
             </button>
         </div>
+        
         <!-- Map Area -->
         <div id="map"></div>
     </div>
@@ -119,8 +148,10 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <!-- Papa Parse (for parsing CSV) -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
-    <!-- Custom JS -->
-    <script src="script.js"></script>
+    <!-- JavaScript -->
+    <script src="map.js" defer></script>
+    <script src="ui.js" defer></script>
+    <script src="data.js" defer></script>
 </body>
 
 </html>
