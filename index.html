@@ -22,19 +22,20 @@
                 <button class="dropbtn">Čakalne dobe</button>
                 <div class="dropdown-content" id="search-type">
                     <a href="#" data-type="service">Zdravstvena storitev</a>
-                    <a href="#" data-type="facility">Ustanova</a>
+                    <!--<a href="#" data-type="facility">Ustanova</a>-->
                 </div>
             </div>
             <div class="dropdown">
-                <button class="dropbtn" id="open-search">Ustanove</button>
+                <!--<button class="dropbtn" id="open-search">Ustanove</button>-->
             </div>
             <div class="dropdown">
-                <button class="dropbtn" id="toggle-coloring">Barvanje zemljevida A</button>
+                <button class="dropbtn" id="toggle-coloring">Regije</button>
             </div>
             <div class="dropdown">
-                <button class="dropbtn" id="toggle-coloring-b">Barvanje zemljevida B</button>
+                <button class="dropbtn" id="toggle-coloring-b">Občine</button>
             </div>
-            <div>
+            <!-- Place the btn-narocaj inside a div with a consistent class -->
+            <div class="dropdown">
                 <button class="dropbtn" id="btn-narocaj" onclick="location.href='https://narocanje.ezdrav.si/'" type="button">Naročaj se</button>
             </div>
         </nav>
@@ -52,7 +53,7 @@
                         <option value="">Izberi...</option>
                         <!-- Options populated dynamically -->
                     </select>
-
+                    <!--
                     <label for="urgency">Izberite stopnjo nujnosti:</label>
                     <select id="urgency">
                         <option value="">Izberi...</option>
@@ -77,6 +78,7 @@
                         <option value="Savinjska regija">Savinjska regija</option>
                         <option value="Zasavska regija">Zasavska regija</option>
                     </select>
+                    -->
                 </div>
 
                 <!-- Option 2: Čakalne dobe za zdravstveno ustanovo -->
@@ -114,6 +116,12 @@
 
                     <button id="search-button">Išči</button>
                     <div id="search-results"></div>
+                </div>
+                <div id="marker-details" class="marker-info hidden">
+                    <h3 id="marker-title"></h3>
+                    <p id="marker-description"></p>
+                    <p id="marker-population"></p>
+                    <button id="get-directions" class="btn">Get Directions</button>
                 </div>
             </div>
             <!-- Map Area -->

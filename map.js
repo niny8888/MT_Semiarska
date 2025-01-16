@@ -7,6 +7,7 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "© OpenStreetMap",
 }).addTo(map);
 
+let highlightedMarker = null; // To track the currently highlighted marker
 let popup = L.popup();
 let markers = []; // All markers
 let tempMarker = null;
@@ -48,13 +49,15 @@ function addMarker(facility) {
         .addTo(map)
         .bindPopup(
             `<b>${name}</b><br>` +
-                `<i>${type}</i><br>` +
+                //`<i>${type}</i><br>` +
                 `${address}<br>` +
-                `<b>Opening Hours:</b> ${hours || "Not specified"}<br>` +
-                `<b>Phone:</b> ${phone || "Not specified"}<br>` +
-                `<b>Accessibility:</b> ${accessibility || "Not specified"}<br>` +
-                `<a href='${mapUri}' target='_blank'>View on Maps</a><br>` +
-                `<a href='${website}' target='_blank'>Visit Website</a>`
+                `<b></b><br>` +
+                `${hours ? hours.split(";").map((day) => `<div>${day.trim()}</div>`).join("") : "<i>Delovni čas ni na voljo</i>"}<br>` +
+                `<b>Tel:</b> ${phone || "<i>Ni na voljo</i>"}<br>` +
+                `<b>Dostopnost:</b> ${accessibility || "<i>Ni na voljo</i>"}<br>` +
+                `<b></b><br>` +
+                `<a href='${mapUri}' target='_blank'>Odpri zemljevid</a><br>` +
+                `<a href='${website}' target='_blank'>Spletna stran</a>`
         );
 
     marker.type = type; // Store the type for filtering

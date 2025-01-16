@@ -16,3 +16,34 @@ label {
     font-size: 14px;
     color: red; /* For unmatched search results */
 }
+
+.marker-info {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-top: 10px;
+}
+
+.marker-info.hidden {
+    display: none;
+}
+
+.marker-info h3 {
+    margin: 0 0 10px;
+}
+
+.marker-info .btn {
+    display: inline-block;
+    padding: 10px 15px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.marker-info .btn:hover {
+    background-color: #0056b3;
+}
