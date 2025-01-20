@@ -47,3 +47,14 @@ label {
 .marker-info .btn:hover {
     background-color: #0056b3;
 }
+
+.hidden {
+    display: none;
+}
+
+#marker-details {
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    margin-top: 20px;
+}

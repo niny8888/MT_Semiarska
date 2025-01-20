@@ -42,43 +42,18 @@
     </header>
 
     <main>
-        <div class="container">
+        <div class="container" id="side">
             <!-- Search Bar -->
             <div class="search-bar">
                 <!-- Option 1: Čakalne dobe za zdravstveno storitev -->
                 <div id="form-service" class="form active">
-                    <h3>Čakalne dobe za zdravstveno storitev:</h3>
+                    <div style="text-align: right;"><a id="close " href="index.html">x</a></div>
+                    <h3>Čakalne dobe za zdravstveno storitev: </h3>
                     <label for="procedure">Izberi zdravstveno storitev:</label>
                     <select id="procedure">
                         <option value="">Izberi...</option>
                         <!-- Options populated dynamically -->
                     </select>
-                    <!--
-                    <label for="urgency">Izberite stopnjo nujnosti:</label>
-                    <select id="urgency">
-                        <option value="">Izberi...</option>
-                        <option value="Zelo hitro">Zelo hitro</option>
-                        <option value="Redno">Redno</option>
-                        <option value="Hitro">Hitro</option>
-                    </select>
-
-                    <label for="region">Izberite regijo:</label>
-                    <select id="region">
-                        <option value="Vse regije">Vse regije</option>
-                        <option value="Gorenjska regija">Gorenjska regija</option>
-                        <option value="Goriška regija">Goriška regija</option>
-                        <option value="Jugovzhodna Slovenija">Jugovzhodna Slovenija</option>
-                        <option value="Koroška regija">Koroška regija</option>
-                        <option value="Obalno-kraška regija">Obalno-kraška regija</option>
-                        <option value="Osrednjeslovenska regija">Osrednjeslovenska regija</option>
-                        <option value="Podravska regija">Podravska regija</option>
-                        <option value="Pomurska regija">Pomurska regija</option>
-                        <option value="Posavska regija">Posavska regija</option>
-                        <option value="Primorsko-notranjska regija">Primorsko-notranjska regija</option>
-                        <option value="Savinjska regija">Savinjska regija</option>
-                        <option value="Zasavska regija">Zasavska regija</option>
-                    </select>
-                    -->
                 </div>
 
                 <!-- Option 2: Čakalne dobe za zdravstveno ustanovo -->
@@ -116,6 +91,12 @@
 
                     <button id="search-button">Išči</button>
                     <div id="search-results"></div>
+                </div>
+                <div id="marker-details" class="marker-info hidden">
+                    <h3 id="marker-title"></h3>
+                    <p id="marker-description"></p>
+                    <p id="marker-population"></p>
+                    <button id="get-directions" class="btn">Get Directions</button>
                 </div>
                 <div id="marker-details" class="marker-info hidden">
                     <h3 id="marker-title"></h3>

@@ -96,7 +96,8 @@ Papa.parse("procedures.csv", {
         results.data.forEach((procedure) => {
             if (procedure.name && procedure.name.trim() !== "") {
                 const option = document.createElement("option");
-                option.value = procedure.name;
+                option.value = procedure.value;
+                option.ID=procedure.idProceedures;
                 option.textContent = procedure.name;
                 procedureDropdown.appendChild(option);
             } else {

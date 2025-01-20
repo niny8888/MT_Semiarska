@@ -1,0 +1,2105 @@
+Procedure Code,Procedure Name,Facility,Category,Waiting Days
+1003P,Pregled dojk in nadaljnja obravnava - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,43
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,88
+1003P,Pregled dojk in nadaljnja obravnava - prvi,"Ambulanta za ginekologijo in por. ter bolezni dojk Danica Hrvatin, dr.med.",regular,88
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,91
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,165
+1003P,Pregled dojk in nadaljnja obravnava - prvi,ZDRAVSTVENI DOM LJUBLJANA - CENTER,regular,165
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,165
+1003P,Pregled dojk in nadaljnja obravnava - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,187
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,257
+1003P,Pregled dojk in nadaljnja obravnava - prvi,BOLNIŠNICA ZA GINEKOLOGIJO IN PORODNIŠTVO KRANJ,regular,257
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,281
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,288
+1003P,Pregled dojk in nadaljnja obravnava - prvi,ZDRAVSTVENI DOM NOVO MESTO,regular,408
+1003P,Pregled dojk in nadaljnja obravnava - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,29
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,57
+1003P,Pregled dojk in nadaljnja obravnava - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,67
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,74
+1003P,Pregled dojk in nadaljnja obravnava - prvi,"Ambulanta za ginekologijo in por. ter bolezni dojk Danica Hrvatin, dr.med.",fast,88
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,91
+1003P,Pregled dojk in nadaljnja obravnava - prvi,BOLNIŠNICA ZA GINEKOLOGIJO IN PORODNIŠTVO KRANJ,fast,104
+1003P,Pregled dojk in nadaljnja obravnava - prvi,ZDRAVSTVENI DOM LJUBLJANA - CENTER,fast,104
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,118
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,135
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,165
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,197
+1003P,Pregled dojk in nadaljnja obravnava - prvi,ZDRAVSTVENI DOM NOVO MESTO,fast,257
+1003P,Pregled dojk in nadaljnja obravnava - prvi,ZDRAVSTVENI DOM NOVO MESTO,veryFast,0
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,0
+1003P,Pregled dojk in nadaljnja obravnava - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,0
+1003P,Pregled dojk in nadaljnja obravnava - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,13
+1003P,Pregled dojk in nadaljnja obravnava - prvi,BOLNIŠNICA ZA GINEKOLOGIJO IN PORODNIŠTVO KRANJ,veryFast,15
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,29
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,29
+1003P,Pregled dojk in nadaljnja obravnava - prvi,ZDRAVSTVENI DOM LJUBLJANA - CENTER,veryFast,29
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,43
+1003P,Pregled dojk in nadaljnja obravnava - prvi,"Ambulanta za ginekologijo in por. ter bolezni dojk Danica Hrvatin, dr.med.",veryFast,57
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,91
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,92
+1003P,Pregled dojk in nadaljnja obravnava - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,104
+1004P,Pregled ob neplodnosti -par - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,0
+1004P,Pregled ob neplodnosti -par - prvi,Zdravstveni center Dravlje d.o.o.,regular,0
+1004P,Pregled ob neplodnosti -par - prvi,UKC LJUBLJANA GINEKOLOŠKA KLINIKA,regular,0
+1004P,Pregled ob neplodnosti -par - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,29
+1004P,Pregled ob neplodnosti -par - prvi,BOLNIŠNICA ZA ŽENSKE BOLEZNI IN PORODNIŠTVO POSTOJNA,regular,57
+1004P,Pregled ob neplodnosti -par - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,104
+1004P,Pregled ob neplodnosti -par - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,0
+1004P,Pregled ob neplodnosti -par - prvi,Zdravstveni center Dravlje d.o.o.,fast,0
+1004P,Pregled ob neplodnosti -par - prvi,BOLNIŠNICA ZA ŽENSKE BOLEZNI IN PORODNIŠTVO POSTOJNA,fast,0
+1004P,Pregled ob neplodnosti -par - prvi,UKC LJUBLJANA GINEKOLOŠKA KLINIKA,fast,0
+1004P,Pregled ob neplodnosti -par - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,0
+1004P,Pregled ob neplodnosti -par - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,88
+1004P,Pregled ob neplodnosti -par - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,0
+1004P,Pregled ob neplodnosti -par - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,0
+1004P,Pregled ob neplodnosti -par - prvi,Zdravstveni center Dravlje d.o.o.,veryFast,0
+1004P,Pregled ob neplodnosti -par - prvi,BOLNIŠNICA ZA ŽENSKE BOLEZNI IN PORODNIŠTVO POSTOJNA,veryFast,0
+1004P,Pregled ob neplodnosti -par - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,0
+1004P,Pregled ob neplodnosti -par - prvi,UKC LJUBLJANA GINEKOLOŠKA KLINIKA,veryFast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA JESENICE,regular,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,"GEMINI, Spec.amb. za gin., perin, in ult.diagnost.",regular,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,BOLNIŠNICA ZA ŽENSKE BOLEZNI IN PORODNIŠTVO POSTOJNA,regular,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,15
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,15
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,29
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,BOLNIŠNICA ZA ŽENSKE BOLEZNI IN PORODNIŠTVO POSTOJNA,fast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA JESENICE,fast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,"GEMINI, Spec.amb. za gin., perin, in ult.diagnost.",fast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,UKC LJUBLJANA GINEKOLOŠKA KLINIKA,fast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,29
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,BOLNIŠNICA ZA ŽENSKE BOLEZNI IN PORODNIŠTVO POSTOJNA,veryFast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,"GEMINI, Spec.amb. za gin., perin, in ult.diagnost.",veryFast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA JESENICE,veryFast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,0
+1005P,Ginekološki pregled zaradi patološke nosečnosti- prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,15
+1006P,Abdominalni kirurški pregled - prvi,KIRURŠKI CENTER TOŠ D.O.O.,regular,0
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,22
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,regular,29
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,29
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,36
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,43
+1006P,Abdominalni kirurški pregled - prvi,iATROS,regular,43
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,61
+1006P,Abdominalni kirurški pregled - prvi,Zdrav splet d.o.o.,regular,63
+1006P,Abdominalni kirurški pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,regular,74
+1006P,Abdominalni kirurški pregled - prvi,KIRURGIJA BITENC,regular,74
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,88
+1006P,Abdominalni kirurški pregled - prvi,Kirurški sanatorij Rožna dolina d.o.o.,regular,88
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,104
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,149
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,165
+1006P,Abdominalni kirurški pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,165
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,fast,15
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,22
+1006P,Abdominalni kirurški pregled - prvi,KIRURŠKI CENTER TOŠ D.O.O.,fast,29
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,29
+1006P,Abdominalni kirurški pregled - prvi,KIRURGIJA BITENC,fast,29
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,29
+1006P,Abdominalni kirurški pregled - prvi,Zdrav splet d.o.o.,fast,35
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,36
+1006P,Abdominalni kirurški pregled - prvi,iATROS,fast,43
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,57
+1006P,Abdominalni kirurški pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,fast,57
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,60
+1006P,Abdominalni kirurški pregled - prvi,Kirurški sanatorij Rožna dolina d.o.o.,fast,74
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,74
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,104
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,104
+1006P,Abdominalni kirurški pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,118
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,veryFast,0
+1006P,Abdominalni kirurški pregled - prvi,KIRURGIJA BITENC,veryFast,0
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,0
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,0
+1006P,Abdominalni kirurški pregled - prvi,Zdrav splet d.o.o.,veryFast,7
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,15
+1006P,Abdominalni kirurški pregled - prvi,iATROS,veryFast,15
+1006P,Abdominalni kirurški pregled - prvi,KIRURŠKI CENTER TOŠ D.O.O.,veryFast,15
+1006P,Abdominalni kirurški pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,veryFast,15
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,20
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,22
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,26
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,29
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,32
+1006P,Abdominalni kirurški pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,43
+1006P,Abdominalni kirurški pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,57
+1006P,Abdominalni kirurški pregled - prvi,Kirurški sanatorij Rožna dolina d.o.o.,veryFast,74
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,25
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,43
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,57
+1007P,Proktološki pregled - prvi,Zdrav splet d.o.o.,regular,75
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,82
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,88
+1007P,Proktološki pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,regular,118
+1007P,Proktološki pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",regular,134
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,149
+1007P,Proktološki pregled - prvi,iATROS,regular,165
+1007P,Proktološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,165
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,165
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,regular,227
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,349
+1007P,Proktološki pregled - prvi,Kirurški sanatorij Rožna dolina d.o.o.,regular,408
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,29
+1007P,Proktološki pregled - prvi,Zdrav splet d.o.o.,fast,54
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,57
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,81
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,82
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,89
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,104
+1007P,Proktološki pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,fast,118
+1007P,Proktološki pregled - prvi,iATROS,fast,135
+1007P,Proktološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,149
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,149
+1007P,Proktološki pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",fast,162
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,fast,165
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,318
+1007P,Proktološki pregled - prvi,Kirurški sanatorij Rožna dolina d.o.o.,fast,408
+1007P,Proktološki pregled - prvi,Zdrav splet d.o.o.,veryFast,5
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,15
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,15
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,veryFast,29
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,43
+1007P,Proktološki pregled - prvi,iATROS,veryFast,43
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,43
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,46
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,53
+1007P,Proktološki pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,veryFast,74
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,75
+1007P,Proktološki pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",veryFast,99
+1007P,Proktološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,104
+1007P,Proktološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,149
+1007P,Proktološki pregled - prvi,Kirurški sanatorij Rožna dolina d.o.o.,veryFast,380
+1009P,Algološki pregled - prvi,BOLNIŠNICA ZA GINEKOLOGIJO IN PORODNIŠTVO KRANJ,regular,165
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,227
+1009P,Algološki pregled - prvi,Zdravstveni zavod Bem,regular,229
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,257
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,257
+1009P,Algološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,257
+1009P,Algološki pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,regular,404
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,417
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,592
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,622
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,865
+1009P,Algološki pregled - prvi,Zdravstveni zavod Bem,fast,175
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,196
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,196
+1009P,Algološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,196
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,196
+1009P,Algološki pregled - prvi,BOLNIŠNICA ZA GINEKOLOGIJO IN PORODNIŠTVO KRANJ,fast,257
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,382
+1009P,Algološki pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,fast,439
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,469
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,561
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,592
+1009P,Algološki pregled - prvi,BOLNIŠNICA ZA GINEKOLOGIJO IN PORODNIŠTVO KRANJ,veryFast,43
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,118
+1009P,Algološki pregled - prvi,Zdravstveni zavod Bem,veryFast,120
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,135
+1009P,Algološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,149
+1009P,Algološki pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,veryFast,162
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,165
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,165
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,257
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,354
+1009P,Algološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,500
+1010P,Dermatološki pregled - prvi,"DERMAMED SPECIALISTICNA AMBULANTA LIDIJA PUSTAI-ŠAFARIC, DR.MED., SPEC.DERMATOVENEROLOG",regular,126
+1010P,Dermatološki pregled - prvi,"DERMA SAN, d.o.o.",regular,135
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM-OSNOVNO VARSTVO NOVA GORICA,regular,193
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,regular,227
+1010P,Dermatološki pregled - prvi,DERMIS Spec. derm. alergološka ambulanta d.o.o.,regular,227
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM AJDOVŠČINA,regular,228
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM MURSKA SOBOTA,regular,237
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,251
+1010P,Dermatološki pregled - prvi,"Dermadent, d.o.o. Ljubljana, PE Dermatologija Dermadent",regular,257
+1010P,Dermatološki pregled - prvi,Zdravstveni zavod Dermoestetika Izola,regular,258
+1010P,Dermatološki pregled - prvi,Dermatovenerologija Natalija Evdakova Bodiroža,regular,288
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM PTUJ,regular,288
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,regular,288
+1010P,Dermatološki pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",regular,328
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,349
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,regular,349
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,349
+1010P,Dermatološki pregled - prvi,FABJAN BEAUTY d.o.o.,regular,349
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,380
+1010P,Dermatološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,433
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,439
+1010P,Dermatološki pregled - prvi,MEDICAL CENTER ROGAŠKA,regular,500
+1010P,Dermatološki pregled - prvi,DERMATOLOŠKI CENTER FABJAN,regular,561
+1010P,Dermatološki pregled - prvi,UKC LJUBLJANA DERMATOVENEROLOŠKA KLINIKA,regular,574
+1010P,Dermatološki pregled - prvi,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,regular,592
+1010P,Dermatološki pregled - prvi,Dermatologija Rogl Fabjan,regular,653
+1010P,Dermatološki pregled - prvi,OZG ZDRAVSTVENI DOM KRANJ,regular,683
+1010P,Dermatološki pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,regular,727
+1010P,Dermatološki pregled - prvi,Dermatologija Bartenjev d.o.o.,regular,1048
+1010P,Dermatološki pregled - prvi,OZG ZDRAVSTVENI DOM KRANJ,fast,57
+1010P,Dermatološki pregled - prvi,"DERMA SAN, d.o.o.",fast,74
+1010P,Dermatološki pregled - prvi,"DERMAMED SPECIALISTICNA AMBULANTA LIDIJA PUSTAI-ŠAFARIC, DR.MED., SPEC.DERMATOVENEROLOG",fast,125
+1010P,Dermatološki pregled - prvi,DERMIS Spec. derm. alergološka ambulanta d.o.o.,fast,149
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM-OSNOVNO VARSTVO NOVA GORICA,fast,193
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM MURSKA SOBOTA,fast,216
+1010P,Dermatološki pregled - prvi,Zdravstveni zavod Dermoestetika Izola,fast,224
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,227
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,fast,227
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM AJDOVŠČINA,fast,228
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,245
+1010P,Dermatološki pregled - prvi,"Dermadent, d.o.o. Ljubljana, PE Dermatologija Dermadent",fast,257
+1010P,Dermatološki pregled - prvi,Dermatovenerologija Natalija Evdakova Bodiroža,fast,257
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,fast,257
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM PTUJ,fast,257
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,288
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,fast,288
+1010P,Dermatološki pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",fast,307
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,318
+1010P,Dermatološki pregled - prvi,FABJAN BEAUTY d.o.o.,fast,318
+1010P,Dermatološki pregled - prvi,MEDICAL CENTER ROGAŠKA,fast,349
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,380
+1010P,Dermatološki pregled - prvi,UKC LJUBLJANA DERMATOVENEROLOŠKA KLINIKA,fast,380
+1010P,Dermatološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,410
+1010P,Dermatološki pregled - prvi,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,fast,469
+1010P,Dermatološki pregled - prvi,Dermatologija Rogl Fabjan,fast,653
+1010P,Dermatološki pregled - prvi,DERMATOLOŠKI CENTER FABJAN,fast,653
+1010P,Dermatološki pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,fast,727
+1010P,Dermatološki pregled - prvi,Dermatologija Bartenjev d.o.o.,fast,773
+1010P,Dermatološki pregled - prvi,OZG ZDRAVSTVENI DOM KRANJ,veryFast,0
+1010P,Dermatološki pregled - prvi,"DERMA SAN, d.o.o.",veryFast,15
+1010P,Dermatološki pregled - prvi,Dermatovenerologija Natalija Evdakova Bodiroža,veryFast,57
+1010P,Dermatološki pregled - prvi,DERMIS Spec. derm. alergološka ambulanta d.o.o.,veryFast,74
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM MURSKA SOBOTA,veryFast,77
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,88
+1010P,Dermatološki pregled - prvi,"DERMAMED SPECIALISTICNA AMBULANTA LIDIJA PUSTAI-ŠAFARIC, DR.MED., SPEC.DERMATOVENEROLOG",veryFast,98
+1010P,Dermatološki pregled - prvi,Dermatologija Bartenjev d.o.o.,veryFast,104
+1010P,Dermatološki pregled - prvi,"Dermadent, d.o.o. Ljubljana, PE Dermatologija Dermadent",veryFast,104
+1010P,Dermatološki pregled - prvi,FABJAN BEAUTY d.o.o.,veryFast,104
+1010P,Dermatološki pregled - prvi,Zdravstveni zavod Dermoestetika Izola,veryFast,109
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM-OSNOVNO VARSTVO NOVA GORICA,veryFast,117
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,veryFast,118
+1010P,Dermatološki pregled - prvi,UKC LJUBLJANA DERMATOVENEROLOŠKA KLINIKA,veryFast,118
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM PTUJ,veryFast,149
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,149
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,149
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,155
+1010P,Dermatološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,165
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,veryFast,165
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM AJDOVŠČINA,veryFast,166
+1010P,Dermatološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,195
+1010P,Dermatološki pregled - prvi,Dermatologija Rogl Fabjan,veryFast,196
+1010P,Dermatološki pregled - prvi,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,veryFast,196
+1010P,Dermatološki pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",veryFast,223
+1010P,Dermatološki pregled - prvi,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,veryFast,227
+1010P,Dermatološki pregled - prvi,MEDICAL CENTER ROGAŠKA,veryFast,257
+1010P,Dermatološki pregled - prvi,DERMATOLOŠKI CENTER FABJAN,veryFast,257
+1010P,Dermatološki pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,veryFast,714
+1011P,Venerološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,0
+1011P,Venerološki pregled - prvi,ZDRAVSTVENI DOM PTUJ,regular,1
+1011P,Venerološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,42
+1011P,Venerološki pregled - prvi,UKC LJUBLJANA DERMATOVENEROLOŠKA KLINIKA,regular,433
+1011P,Venerološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,0
+1011P,Venerološki pregled - prvi,ZDRAVSTVENI DOM PTUJ,fast,1
+1011P,Venerološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,26
+1011P,Venerološki pregled - prvi,UKC LJUBLJANA DERMATOVENEROLOŠKA KLINIKA,fast,104
+1011P,Venerološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,0
+1011P,Venerološki pregled - prvi,ZDRAVSTVENI DOM PTUJ,veryFast,1
+1011P,Venerološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,5
+1011P,Venerološki pregled - prvi,UKC LJUBLJANA DERMATOVENEROLOŠKA KLINIKA,veryFast,43
+1012P,Flebološki pregled - prvi,KIRURŠKI CENTER TOŠ D.O.O.,regular,0
+1012P,Flebološki pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",regular,39
+1012P,Flebološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,57
+1012P,Flebološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,149
+1012P,Flebološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,308
+1012P,Flebološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,421
+1012P,Flebološki pregled - prvi,UKC LJUBLJANA DERMATOVENEROLOŠKA KLINIKA,regular,476
+1012P,Flebološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,834
+1012P,Flebološki pregled - prvi,KIRURŠKI CENTER TOŠ D.O.O.,fast,0
+1012P,Flebološki pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",fast,18
+1012P,Flebološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,43
+1012P,Flebološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,88
+1012P,Flebološki pregled - prvi,UKC LJUBLJANA DERMATOVENEROLOŠKA KLINIKA,fast,104
+1012P,Flebološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,127
+1012P,Flebološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,308
+1012P,Flebološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,439
+1012P,Flebološki pregled - prvi,KIRURŠKI CENTER TOŠ D.O.O.,veryFast,0
+1012P,Flebološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,0
+1012P,Flebološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,0
+1012P,Flebološki pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",veryFast,18
+1012P,Flebološki pregled - prvi,UKC LJUBLJANA DERMATOVENEROLOŠKA KLINIKA,veryFast,29
+1012P,Flebološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,88
+1012P,Flebološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,113
+1012P,Flebološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,231
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,regular,196
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,227
+1014P,Gastroenterološki pregled - prvi,Medicinski center Heliks d.o.o.,regular,232
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,318
+1014P,Gastroenterološki pregled - prvi,Gastromedica d.o.o.,regular,318
+1014P,Gastroenterološki pregled - prvi,KLANMEDIC d.o.o.,regular,349
+1014P,Gastroenterološki pregled - prvi,"DR. KOŠUTIC, INTERNISTICNA GASTROENTEROLOŠKA AMBULANTA",regular,349
+1014P,Gastroenterološki pregled - prvi,Archimed d.o.o.,regular,349
+1014P,Gastroenterološki pregled - prvi,BOLNIŠNICA TOPOLŠICA,regular,408
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,408
+1014P,Gastroenterološki pregled - prvi,DIAGNOSTIČNI CENTER ROGAŠKA D.O.O.,regular,427
+1014P,Gastroenterološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,439
+1014P,Gastroenterološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,regular,469
+1014P,Gastroenterološki pregled - prvi,DIAGNOSTIČNI CENTER BLED D.O.O.,regular,500
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,501
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,530
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,530
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,561
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,592
+1014P,Gastroenterološki pregled - prvi,ENDOMED D.O.O.,regular,592
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,622
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,149
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,fast,227
+1014P,Gastroenterološki pregled - prvi,Medicinski center Heliks d.o.o.,fast,239
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,288
+1014P,Gastroenterološki pregled - prvi,"DR. KOŠUTIC, INTERNISTICNA GASTROENTEROLOŠKA AMBULANTA",fast,318
+1014P,Gastroenterološki pregled - prvi,Archimed d.o.o.,fast,318
+1014P,Gastroenterološki pregled - prvi,KLANMEDIC d.o.o.,fast,318
+1014P,Gastroenterološki pregled - prvi,Gastromedica d.o.o.,fast,318
+1014P,Gastroenterološki pregled - prvi,DIAGNOSTIČNI CENTER ROGAŠKA D.O.O.,fast,364
+1014P,Gastroenterološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,380
+1014P,Gastroenterološki pregled - prvi,BOLNIŠNICA TOPOLŠICA,fast,380
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,380
+1014P,Gastroenterološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,fast,408
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,439
+1014P,Gastroenterološki pregled - prvi,DIAGNOSTIČNI CENTER BLED D.O.O.,fast,469
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,500
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,501
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,530
+1014P,Gastroenterološki pregled - prvi,ENDOMED D.O.O.,fast,530
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,561
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,653
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,43
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,57
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,veryFast,74
+1014P,Gastroenterološki pregled - prvi,Medicinski center Heliks d.o.o.,veryFast,120
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,135
+1014P,Gastroenterološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,veryFast,149
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,149
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,149
+1014P,Gastroenterološki pregled - prvi,KLANMEDIC d.o.o.,veryFast,165
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,196
+1014P,Gastroenterološki pregled - prvi,Archimed d.o.o.,veryFast,196
+1014P,Gastroenterološki pregled - prvi,"DR. KOŠUTIC, INTERNISTICNA GASTROENTEROLOŠKA AMBULANTA",veryFast,196
+1014P,Gastroenterološki pregled - prvi,BOLNIŠNICA TOPOLŠICA,veryFast,196
+1014P,Gastroenterološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,196
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,227
+1014P,Gastroenterološki pregled - prvi,Gastromedica d.o.o.,veryFast,227
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,288
+1014P,Gastroenterološki pregled - prvi,DIAGNOSTIČNI CENTER BLED D.O.O.,veryFast,288
+1014P,Gastroenterološki pregled - prvi,ENDOMED D.O.O.,veryFast,349
+1014P,Gastroenterološki pregled - prvi,DIAGNOSTIČNI CENTER ROGAŠKA D.O.O.,veryFast,358
+1014P,Gastroenterološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,410
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,135
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,165
+1015P,Hematološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,regular,196
+1015P,Hematološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,257
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,408
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,500
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,500
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,865
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,57
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,74
+1015P,Hematološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,fast,104
+1015P,Hematološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,118
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,227
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,288
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,349
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,745
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,15
+1015P,Hematološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,veryFast,29
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,43
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,57
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,57
+1015P,Hematološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,88
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,104
+1015P,Hematološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,135
+1016P,Infektološki pregled - prvi,UKC LJUBLJANA - KLINIKA ZA INFEKCIJSKE BOLEZNI IN VROČINSKA STANJA,regular,0
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,8
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,15
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,26
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,43
+1016P,Infektološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,43
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,88
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,0
+1016P,Infektološki pregled - prvi,UKC LJUBLJANA - KLINIKA ZA INFEKCIJSKE BOLEZNI IN VROČINSKA STANJA,fast,0
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,0
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,12
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,15
+1016P,Infektološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,29
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,57
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,0
+1016P,Infektološki pregled - prvi,UKC LJUBLJANA - KLINIKA ZA INFEKCIJSKE BOLEZNI IN VROČINSKA STANJA,veryFast,0
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,0
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,5
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,15
+1016P,Infektološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,15
+1016P,Infektološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,29
+1017P,Internistični pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,0
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,regular,15
+1017P,Internistični pregled - prvi,"ZASEBNA INTERNISTICNO-PULMOLOŠKA AMBULANTA JASMINA PANJAN AVRAMOVIČ, DR.MED.,SPEC.INT.MED.",regular,15
+1017P,Internistični pregled - prvi,"ALVEOLA D.O.O. ALBERT KLOBUČAR, DR. MED.",regular,22
+1017P,Internistični pregled - prvi,KAMBIČ - KAFOL d.o.o.,regular,29
+1017P,Internistični pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,regular,33
+1017P,Internistični pregled - prvi,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,regular,33
+1017P,Internistični pregled - prvi,ZDRAVSTVENI DOM GROSUPLJE,regular,39
+1017P,Internistični pregled - prvi,Medicointerna d.o.o.,regular,43
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,43
+1017P,Internistični pregled - prvi,ZDRAVSTVENI DOM LENART,regular,56
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,57
+1017P,Internistični pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,regular,74
+1017P,Internistični pregled - prvi,BOLNIŠNICA SEŽANA,regular,74
+1017P,Internistični pregled - prvi,OptimaMed Dializni center Vojnik d.o.o.,regular,76
+1017P,Internistični pregled - prvi,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,regular,90
+1017P,Internistični pregled - prvi,VERBOTEN KOPRIVA RENATA - ORDINACIJA INTERNE MEDICINE,regular,103
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,165
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,227
+1017P,Internistični pregled - prvi,AL-MEDICO,regular,257
+1017P,Internistični pregled - prvi,Zavod Apolon,regular,318
+1017P,Internistični pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,0
+1017P,Internistični pregled - prvi,"ZASEBNA INTERNISTICNO-PULMOLOŠKA AMBULANTA JASMINA PANJAN AVRAMOVIČ, DR.MED.,SPEC.INT.MED.",fast,15
+1017P,Internistični pregled - prvi,"ALVEOLA D.O.O. ALBERT KLOBUČAR, DR. MED.",fast,19
+1017P,Internistični pregled - prvi,ZDRAVSTVENI DOM GROSUPLJE,fast,25
+1017P,Internistični pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,fast,26
+1017P,Internistični pregled - prvi,KAMBIČ - KAFOL d.o.o.,fast,29
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,29
+1017P,Internistični pregled - prvi,Medicointerna d.o.o.,fast,29
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,29
+1017P,Internistični pregled - prvi,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,fast,33
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,fast,43
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,43
+1017P,Internistični pregled - prvi,ZDRAVSTVENI DOM LENART,fast,49
+1017P,Internistični pregled - prvi,BOLNIŠNICA SEŽANA,fast,57
+1017P,Internistični pregled - prvi,OptimaMed Dializni center Vojnik d.o.o.,fast,76
+1017P,Internistični pregled - prvi,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,fast,90
+1017P,Internistični pregled - prvi,VERBOTEN KOPRIVA RENATA - ORDINACIJA INTERNE MEDICINE,fast,103
+1017P,Internistični pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,fast,104
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,135
+1017P,Internistični pregled - prvi,Zavod Apolon,fast,165
+1017P,Internistični pregled - prvi,AL-MEDICO,fast,165
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,0
+1017P,Internistični pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,0
+1017P,Internistični pregled - prvi,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,veryFast,11
+1017P,Internistični pregled - prvi,"ALVEOLA D.O.O. ALBERT KLOBUČAR, DR. MED.",veryFast,13
+1017P,Internistični pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,veryFast,15
+1017P,Internistični pregled - prvi,"ZASEBNA INTERNISTICNO-PULMOLOŠKA AMBULANTA JASMINA PANJAN AVRAMOVIČ, DR.MED.,SPEC.INT.MED.",veryFast,15
+1017P,Internistični pregled - prvi,Medicointerna d.o.o.,veryFast,15
+1017P,Internistični pregled - prvi,KAMBIČ - KAFOL d.o.o.,veryFast,15
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,15
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,15
+1017P,Internistični pregled - prvi,ZDRAVSTVENI DOM GROSUPLJE,veryFast,25
+1017P,Internistični pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,veryFast,26
+1017P,Internistični pregled - prvi,ZDRAVSTVENI DOM LENART,veryFast,28
+1017P,Internistični pregled - prvi,BOLNIŠNICA SEŽANA,veryFast,29
+1017P,Internistični pregled - prvi,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,veryFast,34
+1017P,Internistični pregled - prvi,Zavod Apolon,veryFast,43
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,veryFast,57
+1017P,Internistični pregled - prvi,VERBOTEN KOPRIVA RENATA - ORDINACIJA INTERNE MEDICINE,veryFast,63
+1017P,Internistični pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,74
+1017P,Internistični pregled - prvi,OptimaMed Dializni center Vojnik d.o.o.,veryFast,76
+1017P,Internistični pregled - prvi,AL-MEDICO,veryFast,135
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM LENDAVA - EGESZSEGHAZ LENDVA,regular,0
+1018P,Kardiološki pregled - prvi,"ZASEBNA INTERNISTICNA KARDIOLOŠKA AMBULANTA GUSTAV HODOŠCEK, DR.MED., SPEC.INT.",regular,57
+1018P,Kardiološki pregled - prvi,MEDICAL CENTER ROGAŠKA,regular,57
+1018P,Kardiološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,regular,74
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,88
+1018P,Kardiološki pregled - prvi,BOLNIŠNICA TOPOLŠICA,regular,88
+1018P,Kardiološki pregled - prvi,Srce in ožilje d.o.o.,regular,104
+1018P,Kardiološki pregled - prvi,Medicinski center Heliks d.o.o.,regular,114
+1018P,Kardiološki pregled - prvi,INTERMED D.O.O.,regular,119
+1018P,Kardiološki pregled - prvi,"TOPMED, D.O.O.",regular,135
+1018P,Kardiološki pregled - prvi,"ULTRAKARDIO, Siniša Grujic, dr.med.,specialist",regular,135
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM SEVNICA,regular,135
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM TOLMIN,regular,149
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,165
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,196
+1018P,Kardiološki pregled - prvi,Medicointerna d.o.o.,regular,196
+1018P,Kardiološki pregled - prvi,KARDIOMED d.o.o.,regular,204
+1018P,Kardiološki pregled - prvi,"INTERNISTICNI CENTER PREBIL, UROŠ PREBIL S.P.",regular,222
+1018P,Kardiološki pregled - prvi,ENDOMED D.O.O.,regular,227
+1018P,Kardiološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,227
+1018P,Kardiološki pregled - prvi,"INTERNISTICNA SRCNO - ŽILNA AMBULANTA BOJAN KRIVEC, DR.MED., SPEC. INTERNIST",regular,227
+1018P,Kardiološki pregled - prvi,UNIVERZITETNA KLINIKA ZA PLJUČNE BOLEZNI IN ALERGIJO GOLNIK,regular,227
+1018P,Kardiološki pregled - prvi,MEDI CONS D.O.O.,regular,227
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,regular,227
+1018P,Kardiološki pregled - prvi,"REMEDA, MEDICINSKI CENTER DOMŽALE D.O.O.",regular,235
+1018P,Kardiološki pregled - prvi,KARDIOLOŠKA AMBULANTA VASACOR D.O.O.,regular,253
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,regular,257
+1018P,Kardiološki pregled - prvi,Zdravstveni zavod Reschner,regular,257
+1018P,Kardiološki pregled - prvi,"TERME KRKA, d.o.o.,Novo mesto - PE Šmarješke Toplice",regular,277
+1018P,Kardiološki pregled - prvi,MEDICOR D.O.O.,regular,288
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,288
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,288
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,288
+1018P,Kardiološki pregled - prvi,CARDIAL d.o.o.,regular,318
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM DOMŽALE,regular,318
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,regular,349
+1018P,Kardiološki pregled - prvi,Zdravstveni zavod Celjenje Koper,regular,349
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,380
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,408
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM NOVO MESTO,regular,413
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,425
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM LJUTOMER,regular,439
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,469
+1018P,Kardiološki pregled - prvi,KARDIOLOŠKI CENTER D.O.O.,regular,500
+1018P,Kardiološki pregled - prvi,BOLNIŠNICA SEŽANA,regular,1476
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM SEVNICA,fast,29
+1018P,Kardiološki pregled - prvi,MEDICAL CENTER ROGAŠKA,fast,43
+1018P,Kardiološki pregled - prvi,BOLNIŠNICA TOPOLŠICA,fast,43
+1018P,Kardiološki pregled - prvi,Srce in ožilje d.o.o.,fast,57
+1018P,Kardiološki pregled - prvi,"ZASEBNA INTERNISTICNA KARDIOLOŠKA AMBULANTA GUSTAV HODOŠCEK, DR.MED., SPEC.INT.",fast,57
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,57
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM TOLMIN,fast,74
+1018P,Kardiološki pregled - prvi,INTERMED D.O.O.,fast,88
+1018P,Kardiološki pregled - prvi,BOLNIŠNICA SEŽANA,fast,104
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,104
+1018P,Kardiološki pregled - prvi,MEDI CONS D.O.O.,fast,104
+1018P,Kardiološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,fast,104
+1018P,Kardiološki pregled - prvi,"ULTRAKARDIO, Siniša Grujic, dr.med.,specialist",fast,104
+1018P,Kardiološki pregled - prvi,Medicinski center Heliks d.o.o.,fast,114
+1018P,Kardiološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,118
+1018P,Kardiološki pregled - prvi,"TOPMED, D.O.O.",fast,118
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,118
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,fast,135
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,135
+1018P,Kardiološki pregled - prvi,KARDIOMED d.o.o.,fast,137
+1018P,Kardiološki pregled - prvi,"INTERNISTICNI CENTER PREBIL, UROŠ PREBIL S.P.",fast,140
+1018P,Kardiološki pregled - prvi,ENDOMED D.O.O.,fast,149
+1018P,Kardiološki pregled - prvi,Medicointerna d.o.o.,fast,149
+1018P,Kardiološki pregled - prvi,MEDICOR D.O.O.,fast,149
+1018P,Kardiološki pregled - prvi,KARDIOLOŠKA AMBULANTA VASACOR D.O.O.,fast,154
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,165
+1018P,Kardiološki pregled - prvi,UNIVERZITETNA KLINIKA ZA PLJUČNE BOLEZNI IN ALERGIJO GOLNIK,fast,165
+1018P,Kardiološki pregled - prvi,Zdravstveni zavod Celjenje Koper,fast,165
+1018P,Kardiološki pregled - prvi,"INTERNISTICNA SRCNO - ŽILNA AMBULANTA BOJAN KRIVEC, DR.MED., SPEC. INTERNIST",fast,165
+1018P,Kardiološki pregled - prvi,CARDIAL d.o.o.,fast,165
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,fast,196
+1018P,Kardiološki pregled - prvi,Zdravstveni zavod Reschner,fast,227
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM DOMŽALE,fast,227
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM NOVO MESTO,fast,228
+1018P,Kardiološki pregled - prvi,"REMEDA, MEDICINSKI CENTER DOMŽALE D.O.O.",fast,235
+1018P,Kardiološki pregled - prvi,"TERME KRKA, d.o.o.,Novo mesto - PE Šmarješke Toplice",fast,257
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,288
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,318
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,318
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM LJUTOMER,fast,349
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM LENDAVA - EGESZSEGHAZ LENDVA,fast,349
+1018P,Kardiološki pregled - prvi,KARDIOLOŠKI CENTER D.O.O.,fast,349
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,fast,408
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,418
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,957
+1018P,Kardiološki pregled - prvi,"ZASEBNA INTERNISTICNA KARDIOLOŠKA AMBULANTA GUSTAV HODOŠCEK, DR.MED., SPEC.INT.",veryFast,0
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM SEVNICA,veryFast,15
+1018P,Kardiološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,veryFast,15
+1018P,Kardiološki pregled - prvi,Srce in ožilje d.o.o.,veryFast,15
+1018P,Kardiološki pregled - prvi,BOLNIŠNICA TOPOLŠICA,veryFast,15
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM TOLMIN,veryFast,29
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,29
+1018P,Kardiološki pregled - prvi,MEDICAL CENTER ROGAŠKA,veryFast,29
+1018P,Kardiološki pregled - prvi,MEDICOR D.O.O.,veryFast,43
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,43
+1018P,Kardiološki pregled - prvi,"TOPMED, D.O.O.",veryFast,43
+1018P,Kardiološki pregled - prvi,MEDI CONS D.O.O.,veryFast,43
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,43
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,43
+1018P,Kardiološki pregled - prvi,INTERMED D.O.O.,veryFast,53
+1018P,Kardiološki pregled - prvi,KARDIOLOŠKA AMBULANTA VASACOR D.O.O.,veryFast,54
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,veryFast,57
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM DOMŽALE,veryFast,57
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,57
+1018P,Kardiološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,57
+1018P,Kardiološki pregled - prvi,KARDIOLOŠKI CENTER D.O.O.,veryFast,57
+1018P,Kardiološki pregled - prvi,Zdravstveni zavod Celjenje Koper,veryFast,57
+1018P,Kardiološki pregled - prvi,BOLNIŠNICA SEŽANA,veryFast,57
+1018P,Kardiološki pregled - prvi,KARDIOMED d.o.o.,veryFast,70
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,71
+1018P,Kardiološki pregled - prvi,UNIVERZITETNA KLINIKA ZA PLJUČNE BOLEZNI IN ALERGIJO GOLNIK,veryFast,74
+1018P,Kardiološki pregled - prvi,"ULTRAKARDIO, Siniša Grujic, dr.med.,specialist",veryFast,74
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,veryFast,74
+1018P,Kardiološki pregled - prvi,CARDIAL d.o.o.,veryFast,74
+1018P,Kardiološki pregled - prvi,Medicinski center Heliks d.o.o.,veryFast,79
+1018P,Kardiološki pregled - prvi,Sava Turizem d.d. – PE Zdravilišče Radenci,veryFast,85
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,88
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,veryFast,88
+1018P,Kardiološki pregled - prvi,Medicointerna d.o.o.,veryFast,88
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM LJUTOMER,veryFast,104
+1018P,Kardiološki pregled - prvi,ENDOMED D.O.O.,veryFast,104
+1018P,Kardiološki pregled - prvi,"INTERNISTICNI CENTER PREBIL, UROŠ PREBIL S.P.",veryFast,109
+1018P,Kardiološki pregled - prvi,"TERME KRKA, d.o.o.,Novo mesto - PE Šmarješke Toplice",veryFast,112
+1018P,Kardiološki pregled - prvi,"INTERNISTICNA SRCNO - ŽILNA AMBULANTA BOJAN KRIVEC, DR.MED., SPEC. INTERNIST",veryFast,118
+1018P,Kardiološki pregled - prvi,Zdravstveni zavod Reschner,veryFast,165
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,196
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM NOVO MESTO,veryFast,210
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,227
+1018P,Kardiološki pregled - prvi,ZDRAVSTVENI DOM LENDAVA - EGESZSEGHAZ LENDVA,veryFast,227
+1018P,Kardiološki pregled - prvi,"REMEDA, MEDICINSKI CENTER DOMŽALE D.O.O.",veryFast,235
+1018P,Kardiološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,257
+1019P,Angiološki pregled - prvi,SPECIALISTIČNA IZVENBOLNIŠNIČNA ZDRAVSTVENA DEJAVNOST MILETA TRIPKOVIČ s.p.,regular,29
+1019P,Angiološki pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",regular,39
+1019P,Angiološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,regular,165
+1019P,Angiološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,165
+1019P,Angiološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,196
+1019P,Angiološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,439
+1019P,Angiološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,439
+1019P,Angiološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,500
+1019P,Angiološki pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",fast,18
+1019P,Angiološki pregled - prvi,SPECIALISTIČNA IZVENBOLNIŠNIČNA ZDRAVSTVENA DEJAVNOST MILETA TRIPKOVIČ s.p.,fast,29
+1019P,Angiološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,74
+1019P,Angiološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,fast,88
+1019P,Angiološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,118
+1019P,Angiološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,257
+1019P,Angiološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,318
+1019P,Angiološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,380
+1019P,Angiološki pregled - prvi,SPECIALISTIČNA IZVENBOLNIŠNIČNA ZDRAVSTVENA DEJAVNOST MILETA TRIPKOVIČ s.p.,veryFast,15
+1019P,Angiološki pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",veryFast,18
+1019P,Angiološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,veryFast,43
+1019P,Angiološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,57
+1019P,Angiološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,74
+1019P,Angiološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,74
+1019P,Angiološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,104
+1019P,Angiološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,288
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM DR. BOŽIDARJA LAVRIČA - CERKNICA,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ČRNOMELJ-fizioterapija in ostale dejavnosti na sekundarnem nivoju brez zobozdravstva,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LOGATEC,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM DR. JANEZA ORAŽMA RIBNICA,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM KOČEVJE,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ILIRSKA BISTRICA,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM SLOVENSKE KONJICE,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM AJDOVŠČINA,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM NOVO MESTO,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM TOLMIN,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM SEVNICA,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ŠMARJE PRI JELŠAH,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM GROSUPLJE,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ORMOŽ,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM KOPER CASA DELLA SANITA CAPODISTRIA,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM VELENJE,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,"ZASEBNA INTERNISTICNO-PULMOLOŠKA AMBULANTA JASMINA PANJAN AVRAMOVIČ, DR.MED.,SPEC.INT.MED.",regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - CENTER,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - ŠIŠKA,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - BEŽIGRAD,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM MURSKA SOBOTA,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM DR. JULIJA POLCA KAMNIK,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM TREBNJE,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUTOMER,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZD LAŠKO,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ŠENTJUR,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,"ZA MLINAR NEVENKA, DR.MED.",regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZD RADEČE,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA JESENICE,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,BOLNIŠNICA TOPOLŠICA,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM RADLJE OB DRAVI,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - MOSTE - POLJE,regular,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM GORNJA RADGONA,regular,4
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM PTUJ,regular,15
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,26
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,BOLNIŠNICA SEŽANA,regular,29
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZD KRŠKO,regular,29
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,Zavod Apolon,regular,29
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,29
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,29
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA BREŽICE,regular,57
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,UNIVERZITETNA KLINIKA ZA PLJUČNE BOLEZNI IN ALERGIJO GOLNIK,regular,57
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,74
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,88
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,VERBOTEN KOPRIVA RENATA - ORDINACIJA INTERNE MEDICINE,regular,103
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,regular,118
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,UKC LJUBLJANA INTERNA KLINIKA,regular,165
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA CELJE,regular,530
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,regular,530
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM DR. BOŽIDARJA LAVRIČA - CERKNICA,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ČRNOMELJ-fizioterapija in ostale dejavnosti na sekundarnem nivoju brez zobozdravstva,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LOGATEC,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM DR. JANEZA ORAŽMA RIBNICA,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ILIRSKA BISTRICA,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM SLOVENSKE KONJICE,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM AJDOVŠČINA,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM NOVO MESTO,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM TOLMIN,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM SEVNICA,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ŠMARJE PRI JELŠAH,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM GROSUPLJE,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ORMOŽ,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM KOPER CASA DELLA SANITA CAPODISTRIA,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM VELENJE,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,"ZASEBNA INTERNISTICNO-PULMOLOŠKA AMBULANTA JASMINA PANJAN AVRAMOVIČ, DR.MED.,SPEC.INT.MED.",fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - CENTER,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - ŠIŠKA,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - BEŽIGRAD,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM MURSKA SOBOTA,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM DR. JULIJA POLCA KAMNIK,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM TREBNJE,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUTOMER,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZD LAŠKO,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ŠENTJUR,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,"ZA MLINAR NEVENKA, DR.MED.",fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZD RADEČE,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA JESENICE,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,BOLNIŠNICA TOPOLŠICA,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM RADLJE OB DRAVI,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - MOSTE - POLJE,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,Zavod Apolon,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM GORNJA RADGONA,fast,4
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,BOLNIŠNICA SEŽANA,fast,15
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZD KRŠKO,fast,15
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM PTUJ,fast,15
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,26
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,29
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA BREŽICE,fast,43
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,UNIVERZITETNA KLINIKA ZA PLJUČNE BOLEZNI IN ALERGIJO GOLNIK,fast,57
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,57
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,VERBOTEN KOPRIVA RENATA - ORDINACIJA INTERNE MEDICINE,fast,63
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,74
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,UKC LJUBLJANA INTERNA KLINIKA,fast,88
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,fast,118
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA CELJE,fast,469
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,fast,530
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM DR. BOŽIDARJA LAVRIČA - CERKNICA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ČRNOMELJ-fizioterapija in ostale dejavnosti na sekundarnem nivoju brez zobozdravstva,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LOGATEC,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM DR. JANEZA ORAŽMA RIBNICA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ILIRSKA BISTRICA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM SLOVENSKE KONJICE,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM AJDOVŠČINA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM NOVO MESTO,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM TOLMIN,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM SEVNICA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ŠMARJE PRI JELŠAH,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM GROSUPLJE,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ORMOŽ,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM KOPER CASA DELLA SANITA CAPODISTRIA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM VELENJE,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,"ZASEBNA INTERNISTICNO-PULMOLOŠKA AMBULANTA JASMINA PANJAN AVRAMOVIČ, DR.MED.,SPEC.INT.MED.",veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - CENTER,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - ŠIŠKA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - BEŽIGRAD,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM MURSKA SOBOTA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM DR. JULIJA POLCA KAMNIK,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM TREBNJE,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUTOMER,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZD LAŠKO,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM ŠENTJUR,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,"ZA MLINAR NEVENKA, DR.MED.",veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZD RADEČE,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,BOLNIŠNICA TOPOLŠICA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM RADLJE OB DRAVI,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM LJUBLJANA - MOSTE - POLJE,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,Zavod Apolon,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM PTUJ,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,UKC LJUBLJANA INTERNA KLINIKA,veryFast,0
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM GORNJA RADGONA,veryFast,4
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,15
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,BOLNIŠNICA SEŽANA,veryFast,15
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZD KRŠKO,veryFast,15
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,15
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,29
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,veryFast,29
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA JESENICE,veryFast,29
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,UNIVERZITETNA KLINIKA ZA PLJUČNE BOLEZNI IN ALERGIJO GOLNIK,veryFast,43
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,57
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,VERBOTEN KOPRIVA RENATA - ORDINACIJA INTERNE MEDICINE,veryFast,63
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,veryFast,118
+1020P,Antikoagulacijsko zdravljenje - prvi pregled,SPLOŠNA BOLNIŠNICA CELJE,veryFast,408
+1022P,Klinično genetski pregled - prvi,UKC LJUBLJANA KLINIČNI INŠTITUT ZA MEDICINSKO GENETIKO,regular,165
+1022P,Klinično genetski pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,227
+1022P,Klinično genetski pregled - prvi,UNIVERZITETNA KLINIKA ZA PLJUČNE BOLEZNI IN ALERGIJO GOLNIK,regular,380
+1022P,Klinično genetski pregled - prvi,MEDGEN d.o.o.,fast,88
+1022P,Klinično genetski pregled - prvi,UNIVERZITETNA KLINIKA ZA PLJUČNE BOLEZNI IN ALERGIJO GOLNIK,fast,135
+1022P,Klinično genetski pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,149
+1022P,Klinično genetski pregled - prvi,UKC LJUBLJANA KLINIČNI INŠTITUT ZA MEDICINSKO GENETIKO,fast,165
+1022P,Klinično genetski pregled - prvi,MEDGEN d.o.o.,veryFast,0
+1022P,Klinično genetski pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,0
+1022P,Klinično genetski pregled - prvi,UNIVERZITETNA KLINIKA ZA PLJUČNE BOLEZNI IN ALERGIJO GOLNIK,veryFast,104
+1024P,Nefrološki pregled - prvi,"NEFRODIAL, NEFROLOŠKA IN DIALIZNA DEJAVNOST, D.O.O.",regular,227
+1024P,Nefrološki pregled - prvi,AL-MEDICO,regular,257
+1024P,Nefrološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,regular,288
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,293
+1024P,Nefrološki pregled - prvi,Zavod Apolon,regular,318
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,318
+1024P,Nefrološki pregled - prvi,ZDRAVSTVENI ZAVOD MEDICINSKI CENTER ŠINIGOJ,regular,318
+1024P,Nefrološki pregled - prvi,ZDRAVSTVENI DOM SEVNICA,regular,349
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,349
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,349
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,380
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,408
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,regular,408
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,653
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,773
+1024P,Nefrološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,957
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,165
+1024P,Nefrološki pregled - prvi,Zavod Apolon,fast,165
+1024P,Nefrološki pregled - prvi,ZDRAVSTVENI DOM SEVNICA,fast,165
+1024P,Nefrološki pregled - prvi,AL-MEDICO,fast,165
+1024P,Nefrološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,fast,196
+1024P,Nefrološki pregled - prvi,"NEFRODIAL, NEFROLOŠKA IN DIALIZNA DEJAVNOST, D.O.O.",fast,227
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,257
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,264
+1024P,Nefrološki pregled - prvi,ZDRAVSTVENI ZAVOD MEDICINSKI CENTER ŠINIGOJ,fast,318
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,318
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,fast,349
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,380
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,530
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,530
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,561
+1024P,Nefrološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,834
+1024P,Nefrološki pregled - prvi,"NEFRODIAL, NEFROLOŠKA IN DIALIZNA DEJAVNOST, D.O.O.",veryFast,15
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,veryFast,43
+1024P,Nefrološki pregled - prvi,ZDRAVSTVENI DOM SEVNICA,veryFast,57
+1024P,Nefrološki pregled - prvi,Zavod Apolon,veryFast,57
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,74
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,74
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,74
+1024P,Nefrološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,veryFast,88
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,88
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,124
+1024P,Nefrološki pregled - prvi,AL-MEDICO,veryFast,135
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,165
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,165
+1024P,Nefrološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,257
+1024P,Nefrološki pregled - prvi,ZDRAVSTVENI ZAVOD MEDICINSKI CENTER ŠINIGOJ,veryFast,257
+1024P,Nefrološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,653
+1025P,Nevrokirurški pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,regular,104
+1025P,Nevrokirurški pregled - prvi,KIRURGIJA BITENC,regular,149
+1025P,Nevrokirurški pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,196
+1025P,Nevrokirurški pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,227
+1025P,Nevrokirurški pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,fast,88
+1025P,Nevrokirurški pregled - prvi,KIRURGIJA BITENC,fast,104
+1025P,Nevrokirurški pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,135
+1025P,Nevrokirurški pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,196
+1025P,Nevrokirurški pregled - prvi,KIRURGIJA BITENC,veryFast,29
+1025P,Nevrokirurški pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,veryFast,29
+1025P,Nevrokirurški pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,88
+1025P,Nevrokirurški pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,135
+1026P,Nevrološki pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,regular,118
+1026P,Nevrološki pregled - prvi,NEVROMED DIAGNOSTICNI CENTER D.O.O.,regular,149
+1026P,Nevrološki pregled - prvi,UKC LJUBLJANA NEVROLOŠKA KLINIKA,regular,165
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,196
+1026P,Nevrološki pregled - prvi,BOLNIŠNICA SEŽANA,regular,196
+1026P,Nevrološki pregled - prvi,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,regular,196
+1026P,Nevrološki pregled - prvi,AZUR Zdravstveni zavod - Nevrološka ambulanta Lesce,regular,196
+1026P,Nevrološki pregled - prvi,ZAVOD REVITA,regular,227
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,257
+1026P,Nevrološki pregled - prvi,"Nevrološka ambulanta Marjetka Clemenz, dr.med.",regular,279
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,288
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,regular,318
+1026P,Nevrološki pregled - prvi,NEUROEDINA D.O.O.,regular,330
+1026P,Nevrološki pregled - prvi,ZDRAVSTVENI DOM SEVNICA,regular,349
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,355
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,380
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,439
+1026P,Nevrološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,439
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,530
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,714
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,957
+1026P,Nevrološki pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,fast,57
+1026P,Nevrološki pregled - prvi,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,fast,135
+1026P,Nevrološki pregled - prvi,AZUR Zdravstveni zavod - Nevrološka ambulanta Lesce,fast,135
+1026P,Nevrološki pregled - prvi,NEVROMED DIAGNOSTICNI CENTER D.O.O.,fast,149
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,165
+1026P,Nevrološki pregled - prvi,ZAVOD REVITA,fast,165
+1026P,Nevrološki pregled - prvi,BOLNIŠNICA SEŽANA,fast,165
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,227
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,227
+1026P,Nevrološki pregled - prvi,"Nevrološka ambulanta Marjetka Clemenz, dr.med.",fast,249
+1026P,Nevrološki pregled - prvi,UKC LJUBLJANA NEVROLOŠKA KLINIKA,fast,257
+1026P,Nevrološki pregled - prvi,ZDRAVSTVENI DOM SEVNICA,fast,257
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,fast,288
+1026P,Nevrološki pregled - prvi,NEUROEDINA D.O.O.,fast,295
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,335
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,349
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,380
+1026P,Nevrološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,469
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,469
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,683
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,865
+1026P,Nevrološki pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,veryFast,15
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,29
+1026P,Nevrološki pregled - prvi,AZUR Zdravstveni zavod - Nevrološka ambulanta Lesce,veryFast,43
+1026P,Nevrološki pregled - prvi,NEVROMED DIAGNOSTICNI CENTER D.O.O.,veryFast,43
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,veryFast,57
+1026P,Nevrološki pregled - prvi,UKC LJUBLJANA NEVROLOŠKA KLINIKA,veryFast,57
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,57
+1026P,Nevrološki pregled - prvi,ZDRAVSTVENI DOM SEVNICA,veryFast,74
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,74
+1026P,Nevrološki pregled - prvi,BOLNIŠNICA SEŽANA,veryFast,88
+1026P,Nevrološki pregled - prvi,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,veryFast,88
+1026P,Nevrološki pregled - prvi,NEUROEDINA D.O.O.,veryFast,98
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,104
+1026P,Nevrološki pregled - prvi,ZAVOD REVITA,veryFast,118
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,118
+1026P,Nevrološki pregled - prvi,"Nevrološka ambulanta Marjetka Clemenz, dr.med.",veryFast,130
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,179
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,196
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,227
+1026P,Nevrološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,257
+1026P,Nevrološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,318
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,0
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Okulisticna ordinacija Bonis d.o.o.,regular,57
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Okulistika Clarus d.o.o.,regular,74
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OZG ZDRAVSTVENI DOM KRANJ,regular,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Markelj d.o.o.,regular,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,BROVET d.o.o.,regular,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"PRAVOVID, ocesna ord. Maja Sojer Štular, d.o.o.",regular,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,regular,113
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OČESNA AMBULANTA NAKLO D.O.O.,regular,118
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM DR. JANEZA ORAŽMA RIBNICA,regular,118
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Oculus s.p.,regular,118
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM KOČEVJE,regular,118
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Kirurški sanatorij Rožna dolina d.o.o.,regular,118
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,regular,118
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Okulistika Falež d.o.o.,regular,135
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,regular,135
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM-OSNOVNO VARSTVO NOVA GORICA,regular,147
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesna ambulanta Vid,regular,149
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesni center Preskar,regular,149
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"AGENCIJA AVANTA d.o.o., Ljubljana",regular,165
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"INMED d.o.o., Medicina in tehnika Ljubljana",regular,165
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,STUDIO d.o.o.,regular,165
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesna ambulanta Ophtacom,regular,165
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"OKULODENT D.O.O. MILKA POFUK KOSTADINOVIĆ, DR.MED.SPEC.OFTALMOLOG",regular,165
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"OKULISTICNA AMBULANTA  SMILJANA GRUDEN, DR. MED., SPEC. OFTALMOLOGIJE",regular,165
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OPTOVID d.o.o.,regular,173
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,196
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"Očesna Ordinacija Preskar, Spe vivimus d.o.o.",regular,196
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM LJUBLJANA - CENTER,regular,196
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM LITIJA,regular,227
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM ILIRSKA BISTRICA,regular,227
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,MLINAR VISUS D.O.O.,regular,227
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM LJUBLJANA - BEŽIGRAD,regular,257
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OKULISTIKA Meh d.o.o.,regular,257
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesna ordinacija in optika Oftalma,regular,257
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"OA D.O.O. - Oliver AVSEC, dr. med. spec. oftal.",regular,257
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM MEDVODE,regular,288
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,VID d.o.o.,regular,291
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,regular,307
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,328
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,KAMELEON d.o.o.,regular,336
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,349
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Okovid d.o.o.,regular,349
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM TOLMIN,regular,349
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OZG ZDRAVSTVENI DOM  BLED,regular,380
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM ORMOŽ,regular,380
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OKUMED d.o.o.,regular,408
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesni center Pušnik – Novljan d.o.o.,regular,408
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"OČESNI CENTER IRMAN, d.o.o.",regular,469
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesni center HUDOVERNIK d.o.o.,regular,530
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OFTAMED d.o.o.,regular,561
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,592
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,592
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,592
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,714
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,MORELA OKULISTI D.O.O.,regular,714
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,987
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,VIDIM d.o.o.,regular,1110
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,UKC LJUBLJANA OCESNA KLINIKA,regular,1445
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,0
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Okulisticna ordinacija Bonis d.o.o.,fast,29
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Okulistika Clarus d.o.o.,fast,57
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OČESNA AMBULANTA NAKLO D.O.O.,fast,57
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Markelj d.o.o.,fast,57
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM DR. JANEZA ORAŽMA RIBNICA,fast,74
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,BROVET d.o.o.,fast,74
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM KOČEVJE,fast,74
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"PRAVOVID, ocesna ord. Maja Sojer Štular, d.o.o.",fast,74
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,STUDIO d.o.o.,fast,74
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Oculus s.p.,fast,74
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OZG ZDRAVSTVENI DOM KRANJ,fast,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesni center Preskar,fast,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"OKULODENT D.O.O. MILKA POFUK KOSTADINOVIĆ, DR.MED.SPEC.OFTALMOLOG",fast,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,fast,92
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM-OSNOVNO VARSTVO NOVA GORICA,fast,97
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"AGENCIJA AVANTA d.o.o., Ljubljana",fast,104
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesna ambulanta Vid,fast,104
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesna ambulanta Ophtacom,fast,118
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,fast,118
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"INMED d.o.o., Medicina in tehnika Ljubljana",fast,118
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Kirurški sanatorij Rožna dolina d.o.o.,fast,118
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,fast,118
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM LJUBLJANA - CENTER,fast,135
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"OKULISTICNA AMBULANTA  SMILJANA GRUDEN, DR. MED., SPEC. OFTALMOLOGIJE",fast,135
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"Očesna Ordinacija Preskar, Spe vivimus d.o.o.",fast,135
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM ILIRSKA BISTRICA,fast,135
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Okulistika Falež d.o.o.,fast,149
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,MLINAR VISUS D.O.O.,fast,165
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM LJUBLJANA - BEŽIGRAD,fast,165
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,165
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OPTOVID d.o.o.,fast,166
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"OA D.O.O. - Oliver AVSEC, dr. med. spec. oftal.",fast,196
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesni center Pušnik – Novljan d.o.o.,fast,196
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM MEDVODE,fast,196
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,196
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesna ordinacija in optika Oftalma,fast,196
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OKULISTIKA Meh d.o.o.,fast,227
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM LITIJA,fast,227
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,VID d.o.o.,fast,249
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Okovid d.o.o.,fast,257
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,fast,307
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM ORMOŽ,fast,318
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM TOLMIN,fast,318
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OKUMED d.o.o.,fast,318
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,328
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,KAMELEON d.o.o.,fast,336
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OZG ZDRAVSTVENI DOM  BLED,fast,380
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"OČESNI CENTER IRMAN, d.o.o.",fast,408
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesni center HUDOVERNIK d.o.o.,fast,469
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OFTAMED d.o.o.,fast,469
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,469
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,500
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,530
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,592
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,MORELA OKULISTI D.O.O.,fast,592
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,865
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,VIDIM d.o.o.,fast,1018
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,UKC LJUBLJANA OCESNA KLINIKA,fast,1261
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,0
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OPTOVID d.o.o.,veryFast,0
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Okulistika Clarus d.o.o.,veryFast,0
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Markelj d.o.o.,veryFast,15
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Okulisticna ordinacija Bonis d.o.o.,veryFast,15
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"AGENCIJA AVANTA d.o.o., Ljubljana",veryFast,15
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM LJUBLJANA - CENTER,veryFast,15
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,BROVET d.o.o.,veryFast,15
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"OKULODENT D.O.O. MILKA POFUK KOSTADINOVIĆ, DR.MED.SPEC.OFTALMOLOG",veryFast,15
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,STUDIO d.o.o.,veryFast,15
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Oculus s.p.,veryFast,15
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM TOLMIN,veryFast,29
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"Očesna Ordinacija Preskar, Spe vivimus d.o.o.",veryFast,29
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,MLINAR VISUS D.O.O.,veryFast,29
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM DR. JANEZA ORAŽMA RIBNICA,veryFast,29
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,veryFast,36
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesna ambulanta Ophtacom,veryFast,43
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM KOČEVJE,veryFast,43
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,43
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"INMED d.o.o., Medicina in tehnika Ljubljana",veryFast,43
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM-OSNOVNO VARSTVO NOVA GORICA,veryFast,46
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM ILIRSKA BISTRICA,veryFast,57
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesna ordinacija in optika Oftalma,veryFast,57
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM MEDVODE,veryFast,57
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OČESNA AMBULANTA NAKLO D.O.O.,veryFast,57
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"PRAVOVID, ocesna ord. Maja Sojer Štular, d.o.o.",veryFast,57
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Kirurški sanatorij Rožna dolina d.o.o.,veryFast,57
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,UKC LJUBLJANA OCESNA KLINIKA,veryFast,57
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,veryFast,74
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM LJUBLJANA - BEŽIGRAD,veryFast,74
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"OKULISTICNA AMBULANTA  SMILJANA GRUDEN, DR. MED., SPEC. OFTALMOLOGIJE",veryFast,74
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OKULISTIKA Meh d.o.o.,veryFast,74
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Okovid d.o.o.,veryFast,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,veryFast,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesni center Preskar,veryFast,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OZG ZDRAVSTVENI DOM KRANJ,veryFast,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"OA D.O.O. - Oliver AVSEC, dr. med. spec. oftal.",veryFast,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Okulistika Falež d.o.o.,veryFast,88
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesna ambulanta Vid,veryFast,104
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,MORELA OKULISTI D.O.O.,veryFast,135
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesni center Pušnik – Novljan d.o.o.,veryFast,149
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,VID d.o.o.,veryFast,158
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OZG ZDRAVSTVENI DOM  BLED,veryFast,165
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM ORMOŽ,veryFast,165
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,196
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM LITIJA,veryFast,227
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OKUMED d.o.o.,veryFast,257
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,KAMELEON d.o.o.,veryFast,266
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,288
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,288
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,Očesni center HUDOVERNIK d.o.o.,veryFast,288
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,veryFast,307
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,318
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,328
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,"OČESNI CENTER IRMAN, d.o.o.",veryFast,349
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,349
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,OFTAMED d.o.o.,veryFast,349
+1028P,Okulistični pregled (razen pregled vida za očala in pregleda zaradi kontaktnih leč) - prvi,VIDIM d.o.o.,veryFast,530
+1032P,Ortodontski pregled - prvi,Čigon Anamarija - stomatološka ordinacija,regular,987
+1032P,Ortodontski pregled - prvi,Dentalni center dr. Lah Kravanja d.o.o.-Ortodontija Bovec,regular,1018
+1032P,Ortodontski pregled - prvi,Dentalni center dr. Lah Kravanja d.o.o.-Ortodontija Tolmin,regular,1079
+1032P,Ortodontski pregled - prvi,"Zasebna spec. amb. za zobno in celj. Ortopedijo Tadeja Kramaric-Cizmazija, dr.dent.med., spec.",regular,1231
+1032P,Ortodontski pregled - prvi,Zasebna ordinacija za zobno in čeljustno ortopedijo Irena Pišljar Božič,regular,1323
+1032P,Ortodontski pregled - prvi,Zasebni zdravstveni zavod ORTHODONTIO,regular,1445
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,regular,1445
+1032P,Ortodontski pregled - prvi,Ortodontija Malinger d.o.o.,regular,1445
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM ZOBOZDRAVSTVENO VARSTVO NOVA GORICA,regular,1504
+1032P,Ortodontski pregled - prvi,ORTODONT KOPER,regular,1535
+1032P,Ortodontski pregled - prvi,Lukana d.o.o.,regular,1565
+1032P,Ortodontski pregled - prvi,ORTO D d.o.o.,regular,1565
+1032P,Ortodontski pregled - prvi,"GOTAMA, d.o.o.-Dejan Pirtovšek, dr.dent.med., spec.čelj. In zobne ortopedije",regular,1565
+1032P,Ortodontski pregled - prvi,"ZZ ARSMED-ORTODONTIJA SEŽANA - Tanja Lah Kržin, dr.dent.med., spec.",regular,1574
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Kočevje - ortodontija,regular,1626
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. BOŽIDARJA LAVRIČA - CERKNICA,regular,1688
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM GORNJA RADGONA,regular,1718
+1032P,Ortodontski pregled - prvi,Obrez Oblak Karin - Zobna in celjustna ortopedija,regular,1810
+1032P,Ortodontski pregled - prvi,ORTOESTETIK d.o.o.,regular,1810
+1032P,Ortodontski pregled - prvi,"ZOBOZDRAVSTVO TURK, ORTODONTSKA IN ZOBOZDRAVSTVENA ORDINACIJA, D.O.O.",regular,1810
+1032P,Ortodontski pregled - prvi,ZoboEstetika d.o.o.,regular,1810
+1032P,Ortodontski pregled - prvi,Zdravstveni dom dr. Franca Ambrožiča Postojna - Zobozdravstvo,regular,1841
+1032P,Ortodontski pregled - prvi,"ORTODONTIJA , ZOBOZDRAVSTVO VRBIC d.o.o.",regular,1841
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM AJDOVŠČINA,regular,1841
+1032P,Ortodontski pregled - prvi,BELI MEDVED D.O.O.-ortodontija,regular,1869
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM ČRNOMELJ-zobozdravstvo,regular,1869
+1032P,Ortodontski pregled - prvi,ELIZABETA ZALETEL - ZOBOZDRAVSTVENA DEJAVNOST - ČELJUSTNA IN ZOBNA ORTOPEDIJA IN SPLOŠNO ZOBOZDRAVST,regular,1869
+1032P,Ortodontski pregled - prvi,"Staša Melink, dr. dent.med., spec. - program Jesenice",regular,1869
+1032P,Ortodontski pregled - prvi,ECOOP d.o.o.,regular,1869
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LOGATEC,regular,1869
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM SLOVENSKE KONJICE - Zobozdravstvo,regular,1869
+1032P,Ortodontski pregled - prvi,MG ORTODONT d.o.o.,regular,1869
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM ORMOŽ,regular,1900
+1032P,Ortodontski pregled - prvi,ORTHOS zavod za ortodontijo in maksilofacialno ortopedijo,regular,1900
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - BEŽIGRAD,regular,1900
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM SEVNICA - zobozdravstvo,regular,1900
+1032P,Ortodontski pregled - prvi,"GO ORTO d.o.o. - Jure Klaj, specialist čeljustne in zobne ortopedije",regular,1908
+1032P,Ortodontski pregled - prvi,Ortodontija Ferlež d.o.o.,regular,1930
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Lenart,regular,1930
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,regular,1930
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM GROSUPLJE,regular,1961
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LJUTOMER,regular,1961
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LENDAVA - EGESZSEGHAZ LENDVA,regular,1961
+1032P,Ortodontski pregled - prvi,"HEON d.o.o., Stanka Herman, dr.dent.med., specialist čeljustne in zobne ortopedije",regular,1961
+1032P,Ortodontski pregled - prvi,SPECIALISTIČNA ORTODONTSKA AMBULANTA HROVATIN d.o.o.,regular,1991
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Ivančna Gorica - zobozdravstvo,regular,1991
+1032P,Ortodontski pregled - prvi,MEDIACOM Kranj d.o.o.,regular,1991
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. JANEZA ORAŽMA RIBNICA,regular,2022
+1032P,Ortodontski pregled - prvi,OZG ZDRAVSTVENI DOM KRANJ - zobna,regular,2053
+1032P,Ortodontski pregled - prvi,"Zobozdravstvo Košorok, Tomaž Košorok s.p.",regular,2053
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,regular,2083
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. JOŽETA POTRATE ŽALEC,regular,2083
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - CENTER,regular,2105
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Domžale - zobozdravstvo,regular,2114
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI ZAVOD ORTODONTIJA VALANT,regular,2114
+1032P,Ortodontski pregled - prvi,UKC LJUBLJANA - STOMATOLOŠKA KLINIKA,regular,2175
+1032P,Ortodontski pregled - prvi,"Dr.Pavšič d.o.o., PE Škofja Loka",regular,2175
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LITIJA - Zobozdravstvo,regular,2206
+1032P,Ortodontski pregled - prvi,"E.A.T. d.o.o. - prof.dr.Martina Drevenšek, dr.dent.med.,spec.",regular,2233
+1032P,Ortodontski pregled - prvi,SANIDENT d.o.o. – ortodontija,regular,2234
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM VELENJE,regular,2234
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. JULIJA POLCA KAMNIK,regular,2234
+1032P,Ortodontski pregled - prvi,"Staša Melink, dr. dent.med., spec. - Zasebna ortodontska ord",regular,2234
+1032P,Ortodontski pregled - prvi,E.A.T. d.o.o. 2,regular,2258
+1032P,Ortodontski pregled - prvi,ORTO specialisticna zobna ambulanta d.o.o.,regular,2295
+1032P,Ortodontski pregled - prvi,ZGORNJESAVINJSKI ZDRAVSTVENI DOM NAZARJE,regular,2296
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM PTUJ,regular,2356
+1032P,Ortodontski pregled - prvi,"Zdravstvene storitve, Jure Volk s.p.",regular,2490
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Radlje ob Dravi - zobozdravstvo,regular,2571
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,2814
+1032P,Ortodontski pregled - prvi,Orthas d.o.o.,regular,3361
+1032P,Ortodontski pregled - prvi,Čigon Anamarija - stomatološka ordinacija,fast,745
+1032P,Ortodontski pregled - prvi,Dentalni center dr. Lah Kravanja d.o.o.-Ortodontija Bovec,fast,804
+1032P,Ortodontski pregled - prvi,UKC LJUBLJANA - STOMATOLOŠKA KLINIKA,fast,895
+1032P,Ortodontski pregled - prvi,Zasebna ordinacija za zobno in čeljustno ortopedijo Irena Pišljar Božič,fast,987
+1032P,Ortodontski pregled - prvi,Dentalni center dr. Lah Kravanja d.o.o.-Ortodontija Tolmin,fast,1079
+1032P,Ortodontski pregled - prvi,Zasebni zdravstveni zavod ORTHODONTIO,fast,1079
+1032P,Ortodontski pregled - prvi,"Zasebna spec. amb. za zobno in celj. Ortopedijo Tadeja Kramaric-Cizmazija, dr.dent.med., spec.",fast,1110
+1032P,Ortodontski pregled - prvi,"GOTAMA, d.o.o.-Dejan Pirtovšek, dr.dent.med., spec.čelj. In zobne ortopedije",fast,1110
+1032P,Ortodontski pregled - prvi,Ortodontija Malinger d.o.o.,fast,1139
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM AJDOVŠČINA,fast,1170
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,fast,1384
+1032P,Ortodontski pregled - prvi,"ZZ ARSMED-ORTODONTIJA SEŽANA - Tanja Lah Kržin, dr.dent.med., spec.",fast,1392
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM ZOBOZDRAVSTVENO VARSTVO NOVA GORICA,fast,1445
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LITIJA - Zobozdravstvo,fast,1445
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Kočevje - ortodontija,fast,1445
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,fast,1445
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM ČRNOMELJ-zobozdravstvo,fast,1445
+1032P,Ortodontski pregled - prvi,ORTODONT KOPER,fast,1445
+1032P,Ortodontski pregled - prvi,Obrez Oblak Karin - Zobna in celjustna ortopedija,fast,1445
+1032P,Ortodontski pregled - prvi,"GO ORTO d.o.o. - Jure Klaj, specialist čeljustne in zobne ortopedije",fast,1474
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - BEŽIGRAD,fast,1476
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LENDAVA - EGESZSEGHAZ LENDVA,fast,1476
+1032P,Ortodontski pregled - prvi,ORTOESTETIK d.o.o.,fast,1476
+1032P,Ortodontski pregled - prvi,Lukana d.o.o.,fast,1476
+1032P,Ortodontski pregled - prvi,"Staša Melink, dr. dent.med., spec. - program Jesenice",fast,1504
+1032P,Ortodontski pregled - prvi,ORTO D d.o.o.,fast,1504
+1032P,Ortodontski pregled - prvi,ECOOP d.o.o.,fast,1504
+1032P,Ortodontski pregled - prvi,MG ORTODONT d.o.o.,fast,1565
+1032P,Ortodontski pregled - prvi,"Staša Melink, dr. dent.med., spec. - Zasebna ortodontska ord",fast,1565
+1032P,Ortodontski pregled - prvi,OZG ZDRAVSTVENI DOM KRANJ - zobna,fast,1565
+1032P,Ortodontski pregled - prvi,ORTHOS zavod za ortodontijo in maksilofacialno ortopedijo,fast,1596
+1032P,Ortodontski pregled - prvi,"Dr.Pavšič d.o.o., PE Škofja Loka",fast,1596
+1032P,Ortodontski pregled - prvi,"ZOBOZDRAVSTVO TURK, ORTODONTSKA IN ZOBOZDRAVSTVENA ORDINACIJA, D.O.O.",fast,1596
+1032P,Ortodontski pregled - prvi,ZoboEstetika d.o.o.,fast,1626
+1032P,Ortodontski pregled - prvi,Ortodontija Ferlež d.o.o.,fast,1626
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. BOŽIDARJA LAVRIČA - CERKNICA,fast,1688
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM GORNJA RADGONA,fast,1718
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. JULIJA POLCA KAMNIK,fast,1718
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM SEVNICA - zobozdravstvo,fast,1749
+1032P,Ortodontski pregled - prvi,Zdravstveni dom dr. Franca Ambrožiča Postojna - Zobozdravstvo,fast,1810
+1032P,Ortodontski pregled - prvi,BELI MEDVED D.O.O.-ortodontija,fast,1810
+1032P,Ortodontski pregled - prvi,SPECIALISTIČNA ORTODONTSKA AMBULANTA HROVATIN d.o.o.,fast,1810
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LOGATEC,fast,1810
+1032P,Ortodontski pregled - prvi,SANIDENT d.o.o. – ortodontija,fast,1810
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI ZAVOD ORTODONTIJA VALANT,fast,1810
+1032P,Ortodontski pregled - prvi,"ORTODONTIJA , ZOBOZDRAVSTVO VRBIC d.o.o.",fast,1841
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,fast,1841
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM ORMOŽ,fast,1841
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Ivančna Gorica - zobozdravstvo,fast,1841
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Radlje ob Dravi - zobozdravstvo,fast,1841
+1032P,Ortodontski pregled - prvi,"E.A.T. d.o.o. - prof.dr.Martina Drevenšek, dr.dent.med.,spec.",fast,1862
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LJUTOMER,fast,1869
+1032P,Ortodontski pregled - prvi,E.A.T. d.o.o. 2,fast,1869
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM GROSUPLJE,fast,1869
+1032P,Ortodontski pregled - prvi,ELIZABETA ZALETEL - ZOBOZDRAVSTVENA DEJAVNOST - ČELJUSTNA IN ZOBNA ORTOPEDIJA IN SPLOŠNO ZOBOZDRAVST,fast,1869
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM SLOVENSKE KONJICE - Zobozdravstvo,fast,1869
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - CENTER,fast,1881
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Lenart,fast,1900
+1032P,Ortodontski pregled - prvi,"Zobozdravstvo Košorok, Tomaž Košorok s.p.",fast,1900
+1032P,Ortodontski pregled - prvi,"HEON d.o.o., Stanka Herman, dr.dent.med., specialist čeljustne in zobne ortopedije",fast,1930
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. JANEZA ORAŽMA RIBNICA,fast,1961
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM PTUJ,fast,1991
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. JOŽETA POTRATE ŽALEC,fast,2022
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM VELENJE,fast,2053
+1032P,Ortodontski pregled - prvi,ORTO specialisticna zobna ambulanta d.o.o.,fast,2083
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Domžale - zobozdravstvo,fast,2114
+1032P,Ortodontski pregled - prvi,MEDIACOM Kranj d.o.o.,fast,2206
+1032P,Ortodontski pregled - prvi,ZGORNJESAVINJSKI ZDRAVSTVENI DOM NAZARJE,fast,2226
+1032P,Ortodontski pregled - prvi,"Zdravstvene storitve, Jure Volk s.p.",fast,2231
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,2387
+1032P,Ortodontski pregled - prvi,Orthas d.o.o.,fast,3361
+1032P,Ortodontski pregled - prvi,"HEON d.o.o., Stanka Herman, dr.dent.med., specialist čeljustne in zobne ortopedije",veryFast,0
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM GORNJA RADGONA,veryFast,0
+1032P,Ortodontski pregled - prvi,"ORTODONTIJA , ZOBOZDRAVSTVO VRBIC d.o.o.",veryFast,0
+1032P,Ortodontski pregled - prvi,Dentalni center dr. Lah Kravanja d.o.o.-Ortodontija Bovec,veryFast,0
+1032P,Ortodontski pregled - prvi,ORTHOS zavod za ortodontijo in maksilofacialno ortopedijo,veryFast,0
+1032P,Ortodontski pregled - prvi,MEDIACOM Kranj d.o.o.,veryFast,0
+1032P,Ortodontski pregled - prvi,"Zobozdravstvo Košorok, Tomaž Košorok s.p.",veryFast,0
+1032P,Ortodontski pregled - prvi,ORTOESTETIK d.o.o.,veryFast,0
+1032P,Ortodontski pregled - prvi,ORTODONT KOPER,veryFast,0
+1032P,Ortodontski pregled - prvi,Orthas d.o.o.,veryFast,0
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LITIJA - Zobozdravstvo,veryFast,0
+1032P,Ortodontski pregled - prvi,OZG ZDRAVSTVENI DOM KRANJ - zobna,veryFast,0
+1032P,Ortodontski pregled - prvi,Zdravstveni dom dr. Franca Ambrožiča Postojna - Zobozdravstvo,veryFast,0
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Lenart,veryFast,0
+1032P,Ortodontski pregled - prvi,"Dr.Pavšič d.o.o., PE Škofja Loka",veryFast,0
+1032P,Ortodontski pregled - prvi,ZoboEstetika d.o.o.,veryFast,0
+1032P,Ortodontski pregled - prvi,Čigon Anamarija - stomatološka ordinacija,veryFast,0
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM ZOBOZDRAVSTVENO VARSTVO NOVA GORICA,veryFast,0
+1032P,Ortodontski pregled - prvi,Lukana d.o.o.,veryFast,0
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Kočevje - ortodontija,veryFast,0
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Radlje ob Dravi - zobozdravstvo,veryFast,0
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Ivančna Gorica - zobozdravstvo,veryFast,0
+1032P,Ortodontski pregled - prvi,Dentalni center dr. Lah Kravanja d.o.o.-Ortodontija Tolmin,veryFast,0
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM ČRNOMELJ-zobozdravstvo,veryFast,0
+1032P,Ortodontski pregled - prvi,ELIZABETA ZALETEL - ZOBOZDRAVSTVENA DEJAVNOST - ČELJUSTNA IN ZOBNA ORTOPEDIJA IN SPLOŠNO ZOBOZDRAVST,veryFast,0
+1032P,Ortodontski pregled - prvi,"Zasebna spec. amb. za zobno in celj. Ortopedijo Tadeja Kramaric-Cizmazija, dr.dent.med., spec.",veryFast,15
+1032P,Ortodontski pregled - prvi,UKC LJUBLJANA - STOMATOLOŠKA KLINIKA,veryFast,15
+1032P,Ortodontski pregled - prvi,ORTO specialisticna zobna ambulanta d.o.o.,veryFast,15
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,veryFast,29
+1032P,Ortodontski pregled - prvi,SPECIALISTIČNA ORTODONTSKA AMBULANTA HROVATIN d.o.o.,veryFast,29
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - BEŽIGRAD,veryFast,43
+1032P,Ortodontski pregled - prvi,"GOTAMA, d.o.o.-Dejan Pirtovšek, dr.dent.med., spec.čelj. In zobne ortopedije",veryFast,43
+1032P,Ortodontski pregled - prvi,"ZOBOZDRAVSTVO TURK, ORTODONTSKA IN ZOBOZDRAVSTVENA ORDINACIJA, D.O.O.",veryFast,74
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,veryFast,74
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM PTUJ,veryFast,88
+1032P,Ortodontski pregled - prvi,MG ORTODONT d.o.o.,veryFast,88
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LENDAVA - EGESZSEGHAZ LENDVA,veryFast,88
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LOGATEC,veryFast,88
+1032P,Ortodontski pregled - prvi,Zasebni zdravstveni zavod ORTHODONTIO,veryFast,104
+1032P,Ortodontski pregled - prvi,Ortodontija Malinger d.o.o.,veryFast,118
+1032P,Ortodontski pregled - prvi,SANIDENT d.o.o. – ortodontija,veryFast,135
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. BOŽIDARJA LAVRIČA - CERKNICA,veryFast,135
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM GROSUPLJE,veryFast,227
+1032P,Ortodontski pregled - prvi,Zdravstveni dom Domžale - zobozdravstvo,veryFast,227
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. JULIJA POLCA KAMNIK,veryFast,227
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM AJDOVŠČINA,veryFast,318
+1032P,Ortodontski pregled - prvi,Zasebna ordinacija za zobno in čeljustno ortopedijo Irena Pišljar Božič,veryFast,349
+1032P,Ortodontski pregled - prvi,ECOOP d.o.o.,veryFast,349
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM SLOVENSKE KONJICE - Zobozdravstvo,veryFast,349
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,349
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM SEVNICA - zobozdravstvo,veryFast,380
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM VELENJE,veryFast,592
+1032P,Ortodontski pregled - prvi,Obrez Oblak Karin - Zobna in celjustna ortopedija,veryFast,622
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. JOŽETA POTRATE ŽALEC,veryFast,653
+1032P,Ortodontski pregled - prvi,"GO ORTO d.o.o. - Jure Klaj, specialist čeljustne in zobne ortopedije",veryFast,662
+1032P,Ortodontski pregled - prvi,"E.A.T. d.o.o. - prof.dr.Martina Drevenšek, dr.dent.med.,spec.",veryFast,735
+1032P,Ortodontski pregled - prvi,"ZZ ARSMED-ORTODONTIJA SEŽANA - Tanja Lah Kržin, dr.dent.med., spec.",veryFast,748
+1032P,Ortodontski pregled - prvi,BELI MEDVED D.O.O.-ortodontija,veryFast,895
+1032P,Ortodontski pregled - prvi,"Zdravstvene storitve, Jure Volk s.p.",veryFast,978
+1032P,Ortodontski pregled - prvi,ZGORNJESAVINJSKI ZDRAVSTVENI DOM NAZARJE,veryFast,1229
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - CENTER,veryFast,1230
+1032P,Ortodontski pregled - prvi,"Staša Melink, dr. dent.med., spec. - Zasebna ortodontska ord",veryFast,1231
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,veryFast,1445
+1032P,Ortodontski pregled - prvi,E.A.T. d.o.o. 2,veryFast,1470
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM DR. JANEZA ORAŽMA RIBNICA,veryFast,1596
+1032P,Ortodontski pregled - prvi,ZDRAVSTVENI DOM LJUTOMER,veryFast,1779
+1033P,Ortopedski pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,regular,5
+1033P,Ortopedski pregled - prvi,"Zasebna ortopedska ambulanta Saša Kosovinc, dr.med.",regular,12
+1033P,Ortopedski pregled - prvi,"ARTROS, D.O.O.",regular,15
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,regular,15
+1033P,Ortopedski pregled - prvi,ORTOPEDSKA BOLNIŠNICA VALDOLTRA OSPEDALE ORTOPEDICO VALDOLTRA,regular,43
+1033P,Ortopedski pregled - prvi,Ultramedica d.o.o.,regular,54
+1033P,Ortopedski pregled - prvi,MD Medicina d.o.o.,regular,55
+1033P,Ortopedski pregled - prvi,ZDRAVSTVENI DOM ILIRSKA BISTRICA,regular,57
+1033P,Ortopedski pregled - prvi,OZG ZDRAVSTVENI DOM TRŽIČ,regular,57
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,regular,57
+1033P,Ortopedski pregled - prvi,Orto-ped d.o.o.,regular,67
+1033P,Ortopedski pregled - prvi,ZDRAVSTVENI DOM TOLMIN,regular,69
+1033P,Ortopedski pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",regular,77
+1033P,Ortopedski pregled - prvi,"ORTOBOR, ORTOPEDSKA DEJAVNOST, D.O.O.",regular,84
+1033P,Ortopedski pregled - prvi,Terme Zreče,regular,103
+1033P,Ortopedski pregled - prvi,Kirurški sanatorij Rožna dolina d.o.o.,regular,104
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,124
+1033P,Ortopedski pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,regular,127
+1033P,Ortopedski pregled - prvi,OZG ZDRAVSTVENI DOM KRANJ,regular,135
+1033P,Ortopedski pregled - prvi,UKC LJUBLJANA - ORTOPEDSKA KLINIKA,regular,135
+1033P,Ortopedski pregled - prvi,MEDIVITA D.O.O.,regular,139
+1033P,Ortopedski pregled - prvi,OZG ZDRAVSTVENI DOM  BLED,regular,149
+1033P,Ortopedski pregled - prvi,"Ortopedska ambulanta Sašo Tonejc, dr.med.",regular,149
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,149
+1033P,Ortopedski pregled - prvi,KIRURGIJA BITENC,regular,165
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,196
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,257
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,257
+1033P,Ortopedski pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,318
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,380
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,408
+1033P,Ortopedski pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,fast,5
+1033P,Ortopedski pregled - prvi,"Zasebna ortopedska ambulanta Saša Kosovinc, dr.med.",fast,12
+1033P,Ortopedski pregled - prvi,"ARTROS, D.O.O.",fast,15
+1033P,Ortopedski pregled - prvi,Ultramedica d.o.o.,fast,20
+1033P,Ortopedski pregled - prvi,Orto-ped d.o.o.,fast,21
+1033P,Ortopedski pregled - prvi,ORTOPEDSKA BOLNIŠNICA VALDOLTRA OSPEDALE ORTOPEDICO VALDOLTRA,fast,43
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,fast,43
+1033P,Ortopedski pregled - prvi,ZDRAVSTVENI DOM ILIRSKA BISTRICA,fast,43
+1033P,Ortopedski pregled - prvi,MD Medicina d.o.o.,fast,49
+1033P,Ortopedski pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,fast,57
+1033P,Ortopedski pregled - prvi,ZDRAVSTVENI DOM TOLMIN,fast,69
+1033P,Ortopedski pregled - prvi,OZG ZDRAVSTVENI DOM KRANJ,fast,74
+1033P,Ortopedski pregled - prvi,UKC LJUBLJANA - ORTOPEDSKA KLINIKA,fast,74
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,74
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,fast,74
+1033P,Ortopedski pregled - prvi,KIRURGIJA BITENC,fast,74
+1033P,Ortopedski pregled - prvi,"Ortopedska ambulanta Sašo Tonejc, dr.med.",fast,74
+1033P,Ortopedski pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",fast,75
+1033P,Ortopedski pregled - prvi,"ORTOBOR, ORTOPEDSKA DEJAVNOST, D.O.O.",fast,76
+1033P,Ortopedski pregled - prvi,OZG ZDRAVSTVENI DOM TRŽIČ,fast,88
+1033P,Ortopedski pregled - prvi,Terme Zreče,fast,93
+1033P,Ortopedski pregled - prvi,OZG ZDRAVSTVENI DOM  BLED,fast,104
+1033P,Ortopedski pregled - prvi,Kirurški sanatorij Rožna dolina d.o.o.,fast,104
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,118
+1033P,Ortopedski pregled - prvi,MEDIVITA D.O.O.,fast,125
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,165
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,196
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,196
+1033P,Ortopedski pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,288
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,349
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,380
+1033P,Ortopedski pregled - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,veryFast,5
+1033P,Ortopedski pregled - prvi,Ultramedica d.o.o.,veryFast,6
+1033P,Ortopedski pregled - prvi,"Zasebna ortopedska ambulanta Saša Kosovinc, dr.med.",veryFast,12
+1033P,Ortopedski pregled - prvi,Orto-ped d.o.o.,veryFast,13
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,veryFast,15
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA TRBOVLJE,veryFast,15
+1033P,Ortopedski pregled - prvi,"ARTROS, D.O.O.",veryFast,15
+1033P,Ortopedski pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,veryFast,21
+1033P,Ortopedski pregled - prvi,"Ortopedska ambulanta Sašo Tonejc, dr.med.",veryFast,29
+1033P,Ortopedski pregled - prvi,OZG ZDRAVSTVENI DOM TRŽIČ,veryFast,29
+1033P,Ortopedski pregled - prvi,ZDRAVSTVENI DOM ILIRSKA BISTRICA,veryFast,29
+1033P,Ortopedski pregled - prvi,UKC LJUBLJANA - ORTOPEDSKA KLINIKA,veryFast,29
+1033P,Ortopedski pregled - prvi,MD Medicina d.o.o.,veryFast,39
+1033P,Ortopedski pregled - prvi,OZG ZDRAVSTVENI DOM KRANJ,veryFast,43
+1033P,Ortopedski pregled - prvi,OZG ZDRAVSTVENI DOM  BLED,veryFast,43
+1033P,Ortopedski pregled - prvi,ORTOPEDSKA BOLNIŠNICA VALDOLTRA OSPEDALE ORTOPEDICO VALDOLTRA,veryFast,43
+1033P,Ortopedski pregled - prvi,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",veryFast,46
+1033P,Ortopedski pregled - prvi,"ORTOBOR, ORTOPEDSKA DEJAVNOST, D.O.O.",veryFast,54
+1033P,Ortopedski pregled - prvi,KIRURGIJA BITENC,veryFast,57
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,57
+1033P,Ortopedski pregled - prvi,ZDRAVSTVENI DOM TOLMIN,veryFast,62
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,62
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,74
+1033P,Ortopedski pregled - prvi,Terme Zreče,veryFast,93
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,104
+1033P,Ortopedski pregled - prvi,Kirurški sanatorij Rožna dolina d.o.o.,veryFast,104
+1033P,Ortopedski pregled - prvi,MEDIVITA D.O.O.,veryFast,111
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,165
+1033P,Ortopedski pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,227
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,257
+1033P,Ortopedski pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,257
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,regular,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,Zdravstveni dom Domžale - zobozdravstvo,regular,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,Zdravstveni dom Jesenice – zobna,regular,6
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,OZG ZDRAVSTVENI DOM KRANJ - zobna,regular,15
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM TOLMIN,regular,29
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZD LAŠKO,regular,29
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM MURSKA SOBOTA,regular,32
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM CELJE – Zobozdravstvena dejavnost,regular,63
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM ZOBOZDRAVSTVENO VARSTVO NOVA GORICA,regular,69
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM PTUJ,regular,88
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,Zdravstveni zavod Zobovilka Koper,regular,88
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - MOSTE - POLJE,regular,110
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,Ferdent d.o.o.,regular,118
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,118
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM NOVO MESTO,regular,135
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM DRAVOGRAD,regular,144
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM VELENJE,regular,158
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,regular,227
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM BREŽICE,regular,288
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,UKC LJUBLJANA - STOMATOLOŠKA KLINIKA,regular,288
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,fast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,Zdravstveni dom Domžale - zobozdravstvo,fast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,OZG ZDRAVSTVENI DOM KRANJ - zobna,fast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,Zdravstveni dom Jesenice – zobna,fast,6
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZD LAŠKO,fast,15
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM NOVO MESTO,fast,29
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM TOLMIN,fast,29
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM VELENJE,fast,32
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - MOSTE - POLJE,fast,56
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM PTUJ,fast,57
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM CELJE – Zobozdravstvena dejavnost,fast,63
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM ZOBOZDRAVSTVENO VARSTVO NOVA GORICA,fast,69
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,Ferdent d.o.o.,fast,69
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM DRAVOGRAD,fast,74
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,Zdravstveni zavod Zobovilka Koper,fast,74
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,fast,74
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,88
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM MURSKA SOBOTA,fast,116
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM BREŽICE,fast,165
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,UKC LJUBLJANA - STOMATOLOŠKA KLINIKA,fast,227
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,Zdravstveni zavod Zobovilka Koper,veryFast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM NOVO MESTO,veryFast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZD LAŠKO,veryFast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,veryFast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,veryFast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,UKC LJUBLJANA - STOMATOLOŠKA KLINIKA,veryFast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM TOLMIN,veryFast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM BREŽICE,veryFast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM PTUJ,veryFast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,OZG ZDRAVSTVENI DOM KRANJ - zobna,veryFast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,Zdravstveni dom Domžale - zobozdravstvo,veryFast,0
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM VELENJE,veryFast,4
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - MOSTE - POLJE,veryFast,4
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,Zdravstveni dom Jesenice – zobna,veryFast,6
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM DRAVOGRAD,veryFast,18
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,Ferdent d.o.o.,veryFast,27
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM MURSKA SOBOTA,veryFast,46
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM CELJE – Zobozdravstvena dejavnost,veryFast,63
+1034P,Zobozdravstveni otroški specialistični pregled - prvi,ZDRAVSTVENI DOM ZOBOZDRAVSTVENO VARSTVO NOVA GORICA,veryFast,69
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,regular,32
+1035P,Otorinolaringološki pregled - prvi,"Ord. za bolezni ušes, nosu in grla LANŠČAK d.o.o.",regular,48
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,57
+1035P,Otorinolaringološki pregled - prvi,CENTER ZA SLUH IN GOVOR MARIBOR,regular,74
+1035P,Otorinolaringološki pregled - prvi,"Ordinacija za bolezni ušes, nosu in grla Miran Rakuš, dr.med.",regular,74
+1035P,Otorinolaringološki pregled - prvi,"Ordinacija za bolezni ušes, nosu in grla Bojan Rok, dr.med.",regular,74
+1035P,Otorinolaringološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,83
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM RADLJE OB DRAVI,regular,104
+1035P,Otorinolaringološki pregled - prvi,"KSENIJA DE LORENZI,Zdravstvo in nepremičnine d.o.o",regular,104
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,regular,104
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM ORMOŽ,regular,132
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,135
+1035P,Otorinolaringološki pregled - prvi,"CENTER ZA KOMUNIKACIJO, SLUH IN GOVOR PORTOROŽ",regular,135
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - CENTER,regular,135
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,regular,139
+1035P,Otorinolaringološki pregled - prvi,GroMed otorinolaringologija d.o.o.,regular,140
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,165
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,165
+1035P,Otorinolaringološki pregled - prvi,ZAVOD ZA GLUHE IN NAGLUŠNE LJUBLJANA,regular,167
+1035P,Otorinolaringološki pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,regular,179
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,196
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,227
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,regular,227
+1035P,Otorinolaringološki pregled - prvi,OZG ZDRAVSTVENI DOM RADOVLJICA,regular,257
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,regular,257
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,regular,288
+1035P,Otorinolaringološki pregled - prvi,UKC LJUBLJANA KLINIKA ZA OTORINOLARINGOLOGIJO IN CERVIKOFACIALNO KIRURGIJO,regular,288
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,745
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,fast,32
+1035P,Otorinolaringološki pregled - prvi,"Ord. za bolezni ušes, nosu in grla LANŠČAK d.o.o.",fast,42
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,43
+1035P,Otorinolaringološki pregled - prvi,"Ordinacija za bolezni ušes, nosu in grla Miran Rakuš, dr.med.",fast,57
+1035P,Otorinolaringološki pregled - prvi,"Ordinacija za bolezni ušes, nosu in grla Bojan Rok, dr.med.",fast,57
+1035P,Otorinolaringološki pregled - prvi,CENTER ZA SLUH IN GOVOR MARIBOR,fast,74
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM ORMOŽ,fast,79
+1035P,Otorinolaringološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,83
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,fast,88
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM RADLJE OB DRAVI,fast,90
+1035P,Otorinolaringološki pregled - prvi,"CENTER ZA KOMUNIKACIJO, SLUH IN GOVOR PORTOROŽ",fast,104
+1035P,Otorinolaringološki pregled - prvi,"KSENIJA DE LORENZI,Zdravstvo in nepremičnine d.o.o",fast,104
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,fast,111
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - CENTER,fast,118
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,135
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,135
+1035P,Otorinolaringološki pregled - prvi,GroMed otorinolaringologija d.o.o.,fast,139
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,149
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,149
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,fast,149
+1035P,Otorinolaringološki pregled - prvi,OZG ZDRAVSTVENI DOM RADOVLJICA,fast,165
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,165
+1035P,Otorinolaringološki pregled - prvi,ZAVOD ZA GLUHE IN NAGLUŠNE LJUBLJANA,fast,167
+1035P,Otorinolaringološki pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,fast,179
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,fast,196
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,fast,196
+1035P,Otorinolaringološki pregled - prvi,UKC LJUBLJANA KLINIKA ZA OTORINOLARINGOLOGIJO IN CERVIKOFACIALNO KIRURGIJO,fast,257
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,530
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,15
+1035P,Otorinolaringološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,21
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,veryFast,32
+1035P,Otorinolaringološki pregled - prvi,"Ord. za bolezni ušes, nosu in grla LANŠČAK d.o.o.",veryFast,33
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,veryFast,43
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,43
+1035P,Otorinolaringološki pregled - prvi,"Ordinacija za bolezni ušes, nosu in grla Miran Rakuš, dr.med.",veryFast,43
+1035P,Otorinolaringološki pregled - prvi,"KSENIJA DE LORENZI,Zdravstvo in nepremičnine d.o.o",veryFast,43
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - CENTER,veryFast,43
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,veryFast,43
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM RADLJE OB DRAVI,veryFast,55
+1035P,Otorinolaringološki pregled - prvi,"Ordinacija za bolezni ušes, nosu in grla Bojan Rok, dr.med.",veryFast,57
+1035P,Otorinolaringološki pregled - prvi,UKC LJUBLJANA KLINIKA ZA OTORINOLARINGOLOGIJO IN CERVIKOFACIALNO KIRURGIJO,veryFast,57
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,57
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM ORMOŽ,veryFast,62
+1035P,Otorinolaringološki pregled - prvi,"CENTER ZA KOMUNIKACIJO, SLUH IN GOVOR PORTOROŽ",veryFast,74
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,74
+1035P,Otorinolaringološki pregled - prvi,CENTER ZA SLUH IN GOVOR MARIBOR,veryFast,76
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA JESENICE,veryFast,88
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,88
+1035P,Otorinolaringološki pregled - prvi,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,veryFast,89
+1035P,Otorinolaringološki pregled - prvi,ZAVOD ZA GLUHE IN NAGLUŠNE LJUBLJANA,veryFast,90
+1035P,Otorinolaringološki pregled - prvi,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,veryFast,97
+1035P,Otorinolaringološki pregled - prvi,OZG ZDRAVSTVENI DOM RADOVLJICA,veryFast,135
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,135
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,135
+1035P,Otorinolaringološki pregled - prvi,GroMed otorinolaringologija d.o.o.,veryFast,139
+1035P,Otorinolaringološki pregled - prvi,SPLOŠNA BOLNIŠNICA BREŽICE,veryFast,165
+1036P,Parodontološki pregled - prvi,Zagode Pavel - privatna specialistična zobna ambulanta,regular,203
+1036P,Parodontološki pregled - prvi,Ardens d.o.o.,regular,227
+1036P,Parodontološki pregled - prvi,A.MLINAR d.o.o.-parodontologija Koper,regular,227
+1036P,Parodontološki pregled - prvi,SIMED d.o.o. - zobozdravstvo,regular,227
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - MOSTE - POLJE,regular,227
+1036P,Parodontološki pregled - prvi,Dr.ČOK DENTAL ZOBOZDRAVSTVO d.o.o.,regular,288
+1036P,Parodontološki pregled - prvi,UKC LJUBLJANA - STOMATOLOŠKA KLINIKA,regular,318
+1036P,Parodontološki pregled - prvi,ORTHOS zavod za ortodontijo in maksilofacialno ortopedijo,regular,420
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM MURSKA SOBOTA,regular,439
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - BEŽIGRAD,regular,469
+1036P,Parodontološki pregled - prvi,Zdravstveni dom Radlje ob Dravi - zobozdravstvo,regular,500
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM CELJE – Zobozdravstvena dejavnost,regular,622
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,regular,653
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM ZOBOZDRAVSTVENO VARSTVO NOVA GORICA,regular,683
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM GORNJA RADGONA,regular,714
+1036P,Parodontološki pregled - prvi,Zdravstveni dom Jesenice – zobna,regular,895
+1036P,Parodontološki pregled - prvi,Parodontologija Igličar,regular,926
+1036P,Parodontološki pregled - prvi,"IMJPerio parodontologija in implantologija d.o.o.,",regular,1139
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,1292
+1036P,Parodontološki pregled - prvi,Mikuž d.o.o.,regular,1749
+1036P,Parodontološki pregled - prvi,Ardens d.o.o.,fast,15
+1036P,Parodontološki pregled - prvi,Zagode Pavel - privatna specialistična zobna ambulanta,fast,26
+1036P,Parodontološki pregled - prvi,SIMED d.o.o. - zobozdravstvo,fast,43
+1036P,Parodontološki pregled - prvi,ORTHOS zavod za ortodontijo in maksilofacialno ortopedijo,fast,56
+1036P,Parodontološki pregled - prvi,"IMJPerio parodontologija in implantologija d.o.o.,",fast,57
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - MOSTE - POLJE,fast,57
+1036P,Parodontološki pregled - prvi,UKC LJUBLJANA - STOMATOLOŠKA KLINIKA,fast,74
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,fast,74
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM CELJE – Zobozdravstvena dejavnost,fast,74
+1036P,Parodontološki pregled - prvi,Zdravstveni dom Jesenice – zobna,fast,104
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM MURSKA SOBOTA,fast,104
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - BEŽIGRAD,fast,118
+1036P,Parodontološki pregled - prvi,Zdravstveni dom Radlje ob Dravi - zobozdravstvo,fast,118
+1036P,Parodontološki pregled - prvi,A.MLINAR d.o.o.-parodontologija Koper,fast,135
+1036P,Parodontološki pregled - prvi,Dr.ČOK DENTAL ZOBOZDRAVSTVO d.o.o.,fast,165
+1036P,Parodontološki pregled - prvi,Parodontologija Igličar,fast,227
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM GORNJA RADGONA,fast,288
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,349
+1036P,Parodontološki pregled - prvi,Mikuž d.o.o.,fast,380
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM ZOBOZDRAVSTVENO VARSTVO NOVA GORICA,fast,469
+1036P,Parodontološki pregled - prvi,A.MLINAR d.o.o.-parodontologija Koper,veryFast,0
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM CELJE – Zobozdravstvena dejavnost,veryFast,0
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - BEŽIGRAD,veryFast,0
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM MURSKA SOBOTA,veryFast,0
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,veryFast,0
+1036P,Parodontološki pregled - prvi,Mikuž d.o.o.,veryFast,0
+1036P,Parodontološki pregled - prvi,Parodontologija Igličar,veryFast,0
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM LJUBLJANA - MOSTE - POLJE,veryFast,0
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM ZOBOZDRAVSTVENO VARSTVO NOVA GORICA,veryFast,0
+1036P,Parodontološki pregled - prvi,"IMJPerio parodontologija in implantologija d.o.o.,",veryFast,0
+1036P,Parodontološki pregled - prvi,Zagode Pavel - privatna specialistična zobna ambulanta,veryFast,7
+1036P,Parodontološki pregled - prvi,UKC LJUBLJANA - STOMATOLOŠKA KLINIKA,veryFast,15
+1036P,Parodontološki pregled - prvi,Zdravstveni dom Radlje ob Dravi - zobozdravstvo,veryFast,15
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,15
+1036P,Parodontološki pregled - prvi,ORTHOS zavod za ortodontijo in maksilofacialno ortopedijo,veryFast,21
+1036P,Parodontološki pregled - prvi,Zdravstveni dom Jesenice – zobna,veryFast,57
+1036P,Parodontološki pregled - prvi,ZDRAVSTVENI DOM GORNJA RADGONA,veryFast,74
+1038P,Plastično kirurški pregled  - prvi,KIRURŠKI CENTER TOŠ D.O.O.,regular,29
+1038P,Plastično kirurški pregled  - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,70
+1038P,Plastično kirurški pregled  - prvi,Kirurški sanatorij Rožna dolina d.o.o.,regular,104
+1038P,Plastično kirurški pregled  - prvi,"PLASTIČNA, REKONSTRUKCIJSKA IN ESTETSKA KIRURGIJA ARNEŽ D.O.O.",regular,117
+1038P,Plastično kirurški pregled  - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,regular,149
+1038P,Plastično kirurški pregled  - prvi,SIMED d.o.o. - zdravstvo,regular,165
+1038P,Plastično kirurški pregled  - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,regular,227
+1038P,Plastično kirurški pregled  - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,257
+1038P,Plastično kirurški pregled  - prvi,Plasticna kirurgija Janežič Tomaž Janežič s.p.,regular,349
+1038P,Plastično kirurški pregled  - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,380
+1038P,Plastično kirurški pregled  - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,408
+1038P,Plastično kirurški pregled  - prvi,KIRURŠKI CENTER TOŠ D.O.O.,fast,15
+1038P,Plastično kirurški pregled  - prvi,Plasticna kirurgija Janežič Tomaž Janežič s.p.,fast,29
+1038P,Plastično kirurški pregled  - prvi,SIMED d.o.o. - zdravstvo,fast,88
+1038P,Plastično kirurški pregled  - prvi,"PLASTIČNA, REKONSTRUKCIJSKA IN ESTETSKA KIRURGIJA ARNEŽ D.O.O.",fast,89
+1038P,Plastično kirurški pregled  - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,fast,104
+1038P,Plastično kirurški pregled  - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,fast,104
+1038P,Plastično kirurški pregled  - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,111
+1038P,Plastično kirurški pregled  - prvi,Kirurški sanatorij Rožna dolina d.o.o.,fast,118
+1038P,Plastično kirurški pregled  - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,196
+1038P,Plastično kirurški pregled  - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,349
+1038P,Plastično kirurški pregled  - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,349
+1038P,Plastično kirurški pregled  - prvi,KIRURŠKI CENTER TOŠ D.O.O.,veryFast,15
+1038P,Plastično kirurški pregled  - prvi,Estetika Fabjan d.o.o. splošna in plastična kirurgija,veryFast,28
+1038P,Plastično kirurški pregled  - prvi,Plasticna kirurgija Janežič Tomaž Janežič s.p.,veryFast,29
+1038P,Plastično kirurški pregled  - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,29
+1038P,Plastično kirurški pregled  - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,29
+1038P,Plastično kirurški pregled  - prvi,SIMED d.o.o. - zdravstvo,veryFast,43
+1038P,Plastično kirurški pregled  - prvi,SPLOŠNA BOLNIŠNICA DR. JOŽETA POTRČA PTUJ,veryFast,43
+1038P,Plastično kirurški pregled  - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,74
+1038P,Plastično kirurški pregled  - prvi,UKC LJUBLJANA KIRURŠKA KLINIKA,veryFast,74
+1038P,Plastično kirurški pregled  - prvi,"PLASTIČNA, REKONSTRUKCIJSKA IN ESTETSKA KIRURGIJA ARNEŽ D.O.O.",veryFast,82
+1038P,Plastično kirurški pregled  - prvi,Kirurški sanatorij Rožna dolina d.o.o.,veryFast,104
+1038P,Plastično kirurški pregled  - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,135
+1039P,Pulmološki pregled - prvi,ZAVOD PULMORADIX,regular,7
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,regular,11
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM TOLMIN,regular,13
+1039P,Pulmološki pregled - prvi,ARJANA MAČEK d.o.o.,regular,15
+1039P,Pulmološki pregled - prvi,"Zasebna ambulanta za pljučne bolezni Alojz Horvat, dr.med.",regular,15
+1039P,Pulmološki pregled - prvi,OBJEM ZDRAVJA d.o.o.,regular,15
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,15
+1039P,Pulmološki pregled - prvi,Medicointerna d.o.o.,regular,15
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM AJDOVŠČINA,regular,18
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM KOPER CASA DELLA SANITA CAPODISTRIA,regular,22
+1039P,Pulmološki pregled - prvi,"ALVEOLA D.O.O. ALBERT KLOBUČAR, DR. MED.",regular,22
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,regular,25
+1039P,Pulmološki pregled - prvi,"VELOG, Zdravstveni center, d.o.o.",regular,26
+1039P,Pulmološki pregled - prvi,"KARMEN KRAMER VRŠČAJ, dr.med., Internistična amb. Za pljučne in alergijske bolezni",regular,26
+1039P,Pulmološki pregled - prvi,Zasebna internistično pulmološka ambulanta dr.Kata Paun,regular,27
+1039P,Pulmološki pregled - prvi,KAMBIČ - KAFOL d.o.o.,regular,27
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM VRHNIKA,regular,27
+1039P,Pulmološki pregled - prvi,"ZASEBNA INTERNISTICNO-PULMOLOŠKA AMBULANTA JASMINA PANJAN AVRAMOVIČ, DR.MED.,SPEC.INT.MED.",regular,27
+1039P,Pulmološki pregled - prvi,Pulmedico d.o.o.,regular,29
+1039P,Pulmološki pregled - prvi,MEDI PULMO d.o.o.,regular,29
+1039P,Pulmološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,regular,29
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM IDRIJA,regular,29
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,regular,35
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM GROSUPLJE,regular,39
+1039P,Pulmološki pregled - prvi,ZD KRŠKO,regular,41
+1039P,Pulmološki pregled - prvi,DR.ŠEGOTA - PULMOLOG. D.O.O. SPECIALISTIČNE ZDRAVSTVENE STORITVE,regular,42
+1039P,Pulmološki pregled - prvi,BOLNIŠNICA SEŽANA,regular,43
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM DOMŽALE,regular,43
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM ZAGORJE OB SAVI,regular,46
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM JESENICE,regular,53
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM-OSNOVNO VARSTVO NOVA GORICA,regular,54
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM LENART,regular,56
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM LENDAVA - EGESZSEGHAZ LENDVA,regular,57
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM LJUTOMER,regular,57
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM ORMOŽ,regular,60
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM PTUJ,regular,68
+1039P,Pulmološki pregled - prvi,VERBOTEN KOPRIVA RENATA - ORDINACIJA INTERNE MEDICINE,regular,70
+1039P,Pulmološki pregled - prvi,"Pulmovita, d.o.o.",regular,74
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM GORNJA RADGONA,regular,88
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM SEVNICA,regular,88
+1039P,Pulmološki pregled - prvi,INTERNISTIČNO PULMOLOŠKA AMBULANTA Bombek .d.o.o.,regular,109
+1039P,Pulmološki pregled - prvi,"PULMED, ambulanta za pljučne bolezni in alergije d.o.o.",regular,118
+1039P,Pulmološki pregled - prvi,"REMEDA, MEDICINSKI CENTER DOMŽALE D.O.O.",regular,137
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM MURSKA SOBOTA,regular,151
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,154
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,regular,165
+1039P,Pulmološki pregled - prvi,BOLNIŠNICA TOPOLŠICA,regular,165
+1039P,Pulmološki pregled - prvi,AMBULANTA ARIA D.O.O.,regular,165
+1039P,Pulmološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,227
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,regular,257
+1039P,Pulmološki pregled - prvi,UNIVERZITETNA KLINIKA ZA PLJUČNE BOLEZNI IN ALERGIJO GOLNIK,regular,318
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,regular,349
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,regular,380
+1039P,Pulmološki pregled - prvi,OBJEM ZDRAVJA d.o.o.,fast,0
+1039P,Pulmološki pregled - prvi,Medicointerna d.o.o.,fast,0
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,0
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,fast,5
+1039P,Pulmološki pregled - prvi,ZAVOD PULMORADIX,fast,7
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM TOLMIN,fast,13
+1039P,Pulmološki pregled - prvi,ARJANA MAČEK d.o.o.,fast,15
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM IDRIJA,fast,15
+1039P,Pulmološki pregled - prvi,"Zasebna ambulanta za pljučne bolezni Alojz Horvat, dr.med.",fast,15
+1039P,Pulmološki pregled - prvi,MEDI PULMO d.o.o.,fast,15
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM AJDOVŠČINA,fast,18
+1039P,Pulmološki pregled - prvi,Zasebna internistično pulmološka ambulanta dr.Kata Paun,fast,18
+1039P,Pulmološki pregled - prvi,"VELOG, Zdravstveni center, d.o.o.",fast,19
+1039P,Pulmološki pregled - prvi,"ALVEOLA D.O.O. ALBERT KLOBUČAR, DR. MED.",fast,19
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM KOPER CASA DELLA SANITA CAPODISTRIA,fast,22
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM GROSUPLJE,fast,25
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM VRHNIKA,fast,25
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,fast,25
+1039P,Pulmološki pregled - prvi,"KARMEN KRAMER VRŠČAJ, dr.med., Internistična amb. Za pljučne in alergijske bolezni",fast,26
+1039P,Pulmološki pregled - prvi,KAMBIČ - KAFOL d.o.o.,fast,27
+1039P,Pulmološki pregled - prvi,"ZASEBNA INTERNISTICNO-PULMOLOŠKA AMBULANTA JASMINA PANJAN AVRAMOVIČ, DR.MED.,SPEC.INT.MED.",fast,27
+1039P,Pulmološki pregled - prvi,BOLNIŠNICA SEŽANA,fast,29
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM LJUTOMER,fast,29
+1039P,Pulmološki pregled - prvi,Pulmedico d.o.o.,fast,29
+1039P,Pulmološki pregled - prvi,DR.ŠEGOTA - PULMOLOG. D.O.O. SPECIALISTIČNE ZDRAVSTVENE STORITVE,fast,29
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM ZAGORJE OB SAVI,fast,33
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,fast,35
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM-OSNOVNO VARSTVO NOVA GORICA,fast,36
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM DOMŽALE,fast,39
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM GORNJA RADGONA,fast,39
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM PTUJ,fast,40
+1039P,Pulmološki pregled - prvi,ZD KRŠKO,fast,41
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM SEVNICA,fast,43
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM LENDAVA - EGESZSEGHAZ LENDVA,fast,48
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM LENART,fast,49
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM JESENICE,fast,50
+1039P,Pulmološki pregled - prvi,"Pulmovita, d.o.o.",fast,57
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM ORMOŽ,fast,60
+1039P,Pulmološki pregled - prvi,VERBOTEN KOPRIVA RENATA - ORDINACIJA INTERNE MEDICINE,fast,67
+1039P,Pulmološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,fast,88
+1039P,Pulmološki pregled - prvi,AMBULANTA ARIA D.O.O.,fast,88
+1039P,Pulmološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,88
+1039P,Pulmološki pregled - prvi,"PULMED, ambulanta za pljučne bolezni in alergije d.o.o.",fast,88
+1039P,Pulmološki pregled - prvi,INTERNISTIČNO PULMOLOŠKA AMBULANTA Bombek .d.o.o.,fast,99
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,fast,104
+1039P,Pulmološki pregled - prvi,BOLNIŠNICA TOPOLŠICA,fast,118
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,119
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM MURSKA SOBOTA,fast,124
+1039P,Pulmološki pregled - prvi,"REMEDA, MEDICINSKI CENTER DOMŽALE D.O.O.",fast,133
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,fast,165
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,fast,196
+1039P,Pulmološki pregled - prvi,UNIVERZITETNA KLINIKA ZA PLJUČNE BOLEZNI IN ALERGIJO GOLNIK,fast,196
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,fast,288
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,0
+1039P,Pulmološki pregled - prvi,MEDI PULMO d.o.o.,veryFast,0
+1039P,Pulmološki pregled - prvi,Medicointerna d.o.o.,veryFast,0
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM IDRIJA,veryFast,0
+1039P,Pulmološki pregled - prvi,OBJEM ZDRAVJA d.o.o.,veryFast,0
+1039P,Pulmološki pregled - prvi,ARJANA MAČEK d.o.o.,veryFast,0
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM ZAGORJE OB SAVI,veryFast,4
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,veryFast,5
+1039P,Pulmološki pregled - prvi,DR.ŠEGOTA - PULMOLOG. D.O.O. SPECIALISTIČNE ZDRAVSTVENE STORITVE,veryFast,7
+1039P,Pulmološki pregled - prvi,ZAVOD PULMORADIX,veryFast,7
+1039P,Pulmološki pregled - prvi,Zasebna internistično pulmološka ambulanta dr.Kata Paun,veryFast,8
+1039P,Pulmološki pregled - prvi,"VELOG, Zdravstveni center, d.o.o.",veryFast,12
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM TOLMIN,veryFast,13
+1039P,Pulmološki pregled - prvi,"ALVEOLA D.O.O. ALBERT KLOBUČAR, DR. MED.",veryFast,13
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM KOPER CASA DELLA SANITA CAPODISTRIA,veryFast,14
+1039P,Pulmološki pregled - prvi,"PULMED, ambulanta za pljučne bolezni in alergije d.o.o.",veryFast,15
+1039P,Pulmološki pregled - prvi,Pulmedico d.o.o.,veryFast,15
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM SEVNICA,veryFast,15
+1039P,Pulmološki pregled - prvi,"Pulmovita, d.o.o.",veryFast,15
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM LJUTOMER,veryFast,15
+1039P,Pulmološki pregled - prvi,"Zasebna ambulanta za pljučne bolezni Alojz Horvat, dr.med.",veryFast,15
+1039P,Pulmološki pregled - prvi,AMBULANTA ARIA D.O.O.,veryFast,15
+1039P,Pulmološki pregled - prvi,"KARMEN KRAMER VRŠČAJ, dr.med., Internistična amb. Za pljučne in alergijske bolezni",veryFast,15
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM GORNJA RADGONA,veryFast,18
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM AJDOVŠČINA,veryFast,18
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,veryFast,18
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM-OSNOVNO VARSTVO NOVA GORICA,veryFast,21
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM VELENJE,veryFast,25
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM VRHNIKA,veryFast,25
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM GROSUPLJE,veryFast,25
+1039P,Pulmološki pregled - prvi,"ZASEBNA INTERNISTICNO-PULMOLOŠKA AMBULANTA JASMINA PANJAN AVRAMOVIČ, DR.MED.,SPEC.INT.MED.",veryFast,26
+1039P,Pulmološki pregled - prvi,KAMBIČ - KAFOL d.o.o.,veryFast,27
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM LENART,veryFast,28
+1039P,Pulmološki pregled - prvi,UKC LJUBLJANA INTERNA KLINIKA,veryFast,29
+1039P,Pulmološki pregled - prvi,BOLNIŠNICA SEŽANA,veryFast,29
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA,veryFast,29
+1039P,Pulmološki pregled - prvi,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,29
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM DOMŽALE,veryFast,32
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM LENDAVA - EGESZSEGHAZ LENDVA,veryFast,34
+1039P,Pulmološki pregled - prvi,ZD KRŠKO,veryFast,36
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM ORMOŽ,veryFast,36
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM JESENICE,veryFast,39
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM PTUJ,veryFast,40
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA MURSKA SOBOTA,veryFast,43
+1039P,Pulmološki pregled - prvi,UNIVERZITETNA KLINIKA ZA PLJUČNE BOLEZNI IN ALERGIJO GOLNIK,veryFast,43
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,47
+1039P,Pulmološki pregled - prvi,INTERNISTIČNO PULMOLOŠKA AMBULANTA Bombek .d.o.o.,veryFast,47
+1039P,Pulmološki pregled - prvi,ZDRAVSTVENI DOM MURSKA SOBOTA,veryFast,57
+1039P,Pulmološki pregled - prvi,VERBOTEN KOPRIVA RENATA - ORDINACIJA INTERNE MEDICINE,veryFast,63
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA CELJE,veryFast,74
+1039P,Pulmološki pregled - prvi,BOLNIŠNICA TOPOLŠICA,veryFast,74
+1039P,Pulmološki pregled - prvi,"REMEDA, MEDICINSKI CENTER DOMŽALE D.O.O.",veryFast,133
+1039P,Pulmološki pregled - prvi,SPLOŠNA BOLNIŠNICA DR. FRANCA DERGANCA NOVA GORICA,veryFast,149
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM-OSNOVNO VARSTVO NOVA GORICA,regular,0
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM VELENJE,regular,0
+1040P,Psihiatrična obravnava  - prva,ZGORNJESAVINJSKI ZDRAVSTVENI DOM NAZARJE,regular,0
+1040P,Psihiatrična obravnava  - prva,MLADINSKO KLIMATSKO ZDRAVILIŠČE RAKITNA,regular,0
+1040P,Psihiatrična obravnava  - prva,PKM d.o.o.,regular,0
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM LOGATEC,regular,0
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM ORMOŽ,regular,15
+1040P,Psihiatrična obravnava  - prva,PSIHIATRIČNA BOLNIŠNICA IDRIJA,regular,15
+1040P,Psihiatrična obravnava  - prva,PSIHIATRIČNA BOLNIŠNICA ORMOŽ,regular,26
+1040P,Psihiatrična obravnava  - prva,SPLOŠNA BOLNIŠNICA NOVO MESTO,regular,27
+1040P,Psihiatrična obravnava  - prva,TEMZA d.o.o.,regular,29
+1040P,Psihiatrična obravnava  - prva,BOLNIŠNICA SEŽANA,regular,29
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,regular,29
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM DOMŽALE,regular,43
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM SEVNICA,regular,43
+1040P,Psihiatrična obravnava  - prva,"Svetovanje dr. Kuhar, d.o.o.",regular,43
+1040P,Psihiatrična obravnava  - prva,SUPEREGO d.o.o.,regular,43
+1040P,Psihiatrična obravnava  - prva,"LE SKUPAJ, d.o.o.",regular,49
+1040P,Psihiatrična obravnava  - prva,"DR. POŠTENJAK D.O.O. SPECIALISTICNA PSIHIATRICNA AMBULANTNA DEJAVNOST, MAG.SCI. VLADIMIR POŠTENJAK",regular,50
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM GORNJA RADGONA,regular,53
+1040P,Psihiatrična obravnava  - prva,"MCL, PSIHIATRICNA ORDINACIJA D.O.O.",regular,53
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI ZAVOD FAGANELJ BUT MARIBOR,regular,54
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,57
+1040P,Psihiatrična obravnava  - prva,UNIVERZITETNA PSIHIATRIČNA KLINIKA LJUBLJANA,regular,68
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM TOLMIN,regular,74
+1040P,Psihiatrična obravnava  - prva,ZD KRŠKO,regular,88
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM METLIKA,regular,88
+1040P,Psihiatrična obravnava  - prva,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,88
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM ŠENTJUR,regular,104
+1040P,Psihiatrična obravnava  - prva,PSIHIATRIČNA BOLNIŠNICA VOJNIK,regular,113
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM ZA ŠTUDENTE UNIVERZE V LJUBLJANI,regular,117
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,regular,118
+1040P,Psihiatrična obravnava  - prva,"Psihiatricna in pedopsihiatricna ordinacija  Anja Reljic Princic, dr.med.",regular,118
+1040P,Psihiatrična obravnava  - prva,PSIHIATRIČNA BOLNIŠNICA BEGUNJE,regular,120
+1040P,Psihiatrična obravnava  - prva,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,regular,132
+1040P,Psihiatrična obravnava  - prva,Breda JELEN-SOBOČAN - psihiatrična ordinacija,regular,135
+1040P,Psihiatrična obravnava  - prva,Psih.in psihoter.ordinacija Klelija Hrovatic d.o.o.,regular,149
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM KOPER CASA DELLA SANITA CAPODISTRIA,regular,165
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM LJUTOMER,regular,165
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,regular,165
+1040P,Psihiatrična obravnava  - prva,"MENTAL svetovanje, d.o.o.",regular,165
+1040P,Psihiatrična obravnava  - prva,Zdravstveni zavod Celjenje Koper,regular,165
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM PTUJ,regular,165
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,regular,165
+1040P,Psihiatrična obravnava  - prva,Zdravstveni zavod Furlan Ljubljana,regular,196
+1040P,Psihiatrična obravnava  - prva,SPLOŠNA BOLNIŠNICA CELJE,regular,196
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM MURSKA SOBOTA,regular,209
+1040P,Psihiatrična obravnava  - prva,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,227
+1040P,Psihiatrična obravnava  - prva,"Zasebna psihiatricna ordinacija Peter Kapš, dr.med.",regular,288
+1040P,Psihiatrična obravnava  - prva,"SONART, zdravstvene in druge storitve d.o.o.",regular,318
+1040P,Psihiatrična obravnava  - prva,"ZASEBNA ZDRAVNICA MAJDA KACJAN, DR.MED.SPEC.PSIHIATRIJE",regular,349
+1040P,Psihiatrična obravnava  - prva,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,regular,349
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM-OSNOVNO VARSTVO NOVA GORICA,fast,0
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM LOGATEC,fast,0
+1040P,Psihiatrična obravnava  - prva,MLADINSKO KLIMATSKO ZDRAVILIŠČE RAKITNA,fast,0
+1040P,Psihiatrična obravnava  - prva,PKM d.o.o.,fast,0
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,fast,0
+1040P,Psihiatrična obravnava  - prva,ZGORNJESAVINJSKI ZDRAVSTVENI DOM NAZARJE,fast,0
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM VELENJE,fast,0
+1040P,Psihiatrična obravnava  - prva,TEMZA d.o.o.,fast,15
+1040P,Psihiatrična obravnava  - prva,SUPEREGO d.o.o.,fast,15
+1040P,Psihiatrična obravnava  - prva,BOLNIŠNICA SEŽANA,fast,15
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM ORMOŽ,fast,15
+1040P,Psihiatrična obravnava  - prva,PSIHIATRIČNA BOLNIŠNICA IDRIJA,fast,15
+1040P,Psihiatrična obravnava  - prva,PSIHIATRIČNA BOLNIŠNICA ORMOŽ,fast,19
+1040P,Psihiatrična obravnava  - prva,SPLOŠNA BOLNIŠNICA NOVO MESTO,fast,27
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,29
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM SEVNICA,fast,29
+1040P,Psihiatrična obravnava  - prva,"MCL, PSIHIATRICNA ORDINACIJA D.O.O.",fast,33
+1040P,Psihiatrična obravnava  - prva,"DR. POŠTENJAK D.O.O. SPECIALISTICNA PSIHIATRICNA AMBULANTNA DEJAVNOST, MAG.SCI. VLADIMIR POŠTENJAK",fast,34
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI ZAVOD FAGANELJ BUT MARIBOR,fast,34
+1040P,Psihiatrična obravnava  - prva,"Svetovanje dr. Kuhar, d.o.o.",fast,43
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM GORNJA RADGONA,fast,46
+1040P,Psihiatrična obravnava  - prva,"ZASEBNA ZDRAVNICA MAJDA KACJAN, DR.MED.SPEC.PSIHIATRIJE",fast,49
+1040P,Psihiatrična obravnava  - prva,"LE SKUPAJ, d.o.o.",fast,55
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM TOLMIN,fast,57
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM METLIKA,fast,57
+1040P,Psihiatrična obravnava  - prva,UNIVERZITETNA PSIHIATRIČNA KLINIKA LJUBLJANA,fast,68
+1040P,Psihiatrična obravnava  - prva,PSIHIATRIČNA BOLNIŠNICA VOJNIK,fast,68
+1040P,Psihiatrična obravnava  - prva,"Zasebna psihiatricna ordinacija Peter Kapš, dr.med.",fast,74
+1040P,Psihiatrična obravnava  - prva,Zdravstveni zavod Celjenje Koper,fast,74
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,fast,74
+1040P,Psihiatrična obravnava  - prva,ZD KRŠKO,fast,74
+1040P,Psihiatrična obravnava  - prva,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,74
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM ZA ŠTUDENTE UNIVERZE V LJUBLJANI,fast,75
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM ŠENTJUR,fast,88
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM DOMŽALE,fast,88
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM LJUTOMER,fast,104
+1040P,Psihiatrična obravnava  - prva,"Psihiatricna in pedopsihiatricna ordinacija  Anja Reljic Princic, dr.med.",fast,104
+1040P,Psihiatrična obravnava  - prva,Zdravstveni zavod Furlan Ljubljana,fast,104
+1040P,Psihiatrična obravnava  - prva,Psih.in psihoter.ordinacija Klelija Hrovatic d.o.o.,fast,118
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,fast,118
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM KOPER CASA DELLA SANITA CAPODISTRIA,fast,118
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM PTUJ,fast,118
+1040P,Psihiatrična obravnava  - prva,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,fast,132
+1040P,Psihiatrična obravnava  - prva,Breda JELEN-SOBOČAN - psihiatrična ordinacija,fast,135
+1040P,Psihiatrična obravnava  - prva,"MENTAL svetovanje, d.o.o.",fast,135
+1040P,Psihiatrična obravnava  - prva,PSIHIATRIČNA BOLNIŠNICA BEGUNJE,fast,148
+1040P,Psihiatrična obravnava  - prva,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,179
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM MURSKA SOBOTA,fast,188
+1040P,Psihiatrična obravnava  - prva,SPLOŠNA BOLNIŠNICA CELJE,fast,196
+1040P,Psihiatrična obravnava  - prva,"SONART, zdravstvene in druge storitve d.o.o.",fast,257
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,fast,347
+1040P,Psihiatrična obravnava  - prva,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,fast,349
+1040P,Psihiatrična obravnava  - prva,PKM d.o.o.,veryFast,0
+1040P,Psihiatrična obravnava  - prva,MLADINSKO KLIMATSKO ZDRAVILIŠČE RAKITNA,veryFast,0
+1040P,Psihiatrična obravnava  - prva,TEMZA d.o.o.,veryFast,0
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM TOLMIN,veryFast,0
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM METLIKA,veryFast,0
+1040P,Psihiatrična obravnava  - prva,ZGORNJESAVINJSKI ZDRAVSTVENI DOM NAZARJE,veryFast,0
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM VELENJE,veryFast,0
+1040P,Psihiatrična obravnava  - prva,SUPEREGO d.o.o.,veryFast,0
+1040P,Psihiatrična obravnava  - prva,PSIHIATRIČNA BOLNIŠNICA IDRIJA,veryFast,0
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,veryFast,0
+1040P,Psihiatrična obravnava  - prva,PSIHIATRIČNA BOLNIŠNICA ORMOŽ,veryFast,12
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM ORMOŽ,veryFast,15
+1040P,Psihiatrična obravnava  - prva,BOLNIŠNICA SEŽANA,veryFast,15
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM SEVNICA,veryFast,15
+1040P,Psihiatrična obravnava  - prva,SPLOŠNA BOLNIŠNICA NOVO MESTO,veryFast,21
+1040P,Psihiatrična obravnava  - prva,"LE SKUPAJ, d.o.o.",veryFast,26
+1040P,Psihiatrična obravnava  - prva,PSIHIATRIČNA BOLNIŠNICA VOJNIK,veryFast,27
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM LOGATEC,veryFast,29
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,29
+1040P,Psihiatrična obravnava  - prva,"DR. POŠTENJAK D.O.O. SPECIALISTICNA PSIHIATRICNA AMBULANTNA DEJAVNOST, MAG.SCI. VLADIMIR POŠTENJAK",veryFast,29
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM GORNJA RADGONA,veryFast,42
+1040P,Psihiatrična obravnava  - prva,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,43
+1040P,Psihiatrična obravnava  - prva,Zdravstveni zavod Celjenje Koper,veryFast,43
+1040P,Psihiatrična obravnava  - prva,"Svetovanje dr. Kuhar, d.o.o.",veryFast,43
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM LJUTOMER,veryFast,43
+1040P,Psihiatrična obravnava  - prva,"ZASEBNA ZDRAVNICA MAJDA KACJAN, DR.MED.SPEC.PSIHIATRIJE",veryFast,47
+1040P,Psihiatrična obravnava  - prva,"MCL, PSIHIATRICNA ORDINACIJA D.O.O.",veryFast,54
+1040P,Psihiatrična obravnava  - prva,"Zasebna psihiatricna ordinacija Peter Kapš, dr.med.",veryFast,57
+1040P,Psihiatrična obravnava  - prva,PSIHIATRIČNA BOLNIŠNICA BEGUNJE,veryFast,57
+1040P,Psihiatrična obravnava  - prva,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,57
+1040P,Psihiatrična obravnava  - prva,ZD KRŠKO,veryFast,57
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM KOPER CASA DELLA SANITA CAPODISTRIA,veryFast,57
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,veryFast,57
+1040P,Psihiatrična obravnava  - prva,SŽ - ŽELEZNIŠKI ZDRAVSTVENI DOM LJUBLJANA,veryFast,64
+1040P,Psihiatrična obravnava  - prva,UNIVERZITETNA PSIHIATRIČNA KLINIKA LJUBLJANA,veryFast,68
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM ŠENTJUR,veryFast,74
+1040P,Psihiatrična obravnava  - prva,"Psihiatricna in pedopsihiatricna ordinacija  Anja Reljic Princic, dr.med.",veryFast,74
+1040P,Psihiatrična obravnava  - prva,Zdravstveni zavod Furlan Ljubljana,veryFast,74
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM-OSNOVNO VARSTVO NOVA GORICA,veryFast,74
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM DOMŽALE,veryFast,74
+1040P,Psihiatrična obravnava  - prva,"MENTAL svetovanje, d.o.o.",veryFast,74
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM ZA ŠTUDENTE UNIVERZE V LJUBLJANI,veryFast,77
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM PTUJ,veryFast,88
+1040P,Psihiatrična obravnava  - prva,Psih.in psihoter.ordinacija Klelija Hrovatic d.o.o.,veryFast,88
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,veryFast,104
+1040P,Psihiatrična obravnava  - prva,SPLOŠNA BOLNIŠNICA CELJE,veryFast,118
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM MURSKA SOBOTA,veryFast,127
+1040P,Psihiatrična obravnava  - prva,Breda JELEN-SOBOČAN - psihiatrična ordinacija,veryFast,135
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI ZAVOD FAGANELJ BUT MARIBOR,veryFast,135
+1040P,Psihiatrična obravnava  - prva,"SONART, zdravstvene in druge storitve d.o.o.",veryFast,196
+1040P,Psihiatrična obravnava  - prva,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,veryFast,288
+1040P,Psihiatrična obravnava  - prva,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,veryFast,347
+1041P,Pedopsihiatrična obravnava  - prva,UNIVERZITETNI KLINIČNI CENTER MARIBOR,regular,0
+1041P,Pedopsihiatrična obravnava  - prva,PRAKAŠ MILANKA - PEDOPSIHIATRIČNA AMBULANTA,regular,33
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM GORNJA RADGONA,regular,74
+1041P,Pedopsihiatrična obravnava  - prva,UKC LJUBLJANA PEDIATRIČNA KLINIKA,regular,88
+1041P,Pedopsihiatrična obravnava  - prva,"ZDRAVSTVO BERIC, D.O.O.",regular,104
+1041P,Pedopsihiatrična obravnava  - prva,"Psihiatricna in pedopsihiatricna ordinacija  Anja Reljic Princic, dr.med.",regular,118
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,regular,196
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM DOMŽALE,regular,257
+1041P,Pedopsihiatrična obravnava  - prva,OZG ZDRAVSTVENI DOM KRANJ,regular,257
+1041P,Pedopsihiatrična obravnava  - prva,Animula d.o.o.,regular,349
+1041P,Pedopsihiatrična obravnava  - prva,ZAVOD ZA GLUHE IN NAGLUŠNE LJUBLJANA,regular,349
+1041P,Pedopsihiatrična obravnava  - prva,CENTER ZA SLUH IN GOVOR MARIBOR,regular,380
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM JESENICE,regular,439
+1041P,Pedopsihiatrična obravnava  - prva,Daruma d.o.o.,regular,469
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,regular,530
+1041P,Pedopsihiatrična obravnava  - prva,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,regular,561
+1041P,Pedopsihiatrična obravnava  - prva,"Svetovalni center za otroke, mladostnike in starše Ljubljana",regular,592
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM SEVNICA,regular,592
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM ORMOŽ,regular,592
+1041P,Pedopsihiatrična obravnava  - prva,"Zasebna pedopsihiatrična ambulanta Nataša Potočnik Dajčman, dr.med.",regular,622
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,regular,683
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM MURSKA SOBOTA,regular,745
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,regular,773
+1041P,Pedopsihiatrična obravnava  - prva,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",regular,773
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,regular,804
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,regular,865
+1041P,Pedopsihiatrična obravnava  - prva,MLADINSKO KLIMATSKO ZDRAVILIŠČE RAKITNA,regular,957
+1041P,Pedopsihiatrična obravnava  - prva,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,regular,1139
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,1384
+1041P,Pedopsihiatrična obravnava  - prva,UNIVERZITETNI KLINIČNI CENTER MARIBOR,fast,0
+1041P,Pedopsihiatrična obravnava  - prva,PRAKAŠ MILANKA - PEDOPSIHIATRIČNA AMBULANTA,fast,33
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM GORNJA RADGONA,fast,70
+1041P,Pedopsihiatrična obravnava  - prva,UKC LJUBLJANA PEDIATRIČNA KLINIKA,fast,74
+1041P,Pedopsihiatrična obravnava  - prva,"ZDRAVSTVO BERIC, D.O.O.",fast,74
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,fast,118
+1041P,Pedopsihiatrična obravnava  - prva,OZG ZDRAVSTVENI DOM KRANJ,fast,165
+1041P,Pedopsihiatrična obravnava  - prva,Animula d.o.o.,fast,257
+1041P,Pedopsihiatrična obravnava  - prva,"Svetovalni center za otroke, mladostnike in starše Ljubljana",fast,318
+1041P,Pedopsihiatrična obravnava  - prva,"Psihiatricna in pedopsihiatricna ordinacija  Anja Reljic Princic, dr.med.",fast,318
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM DOMŽALE,fast,318
+1041P,Pedopsihiatrična obravnava  - prva,ZAVOD ZA GLUHE IN NAGLUŠNE LJUBLJANA,fast,349
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM SEVNICA,fast,380
+1041P,Pedopsihiatrična obravnava  - prva,CENTER ZA SLUH IN GOVOR MARIBOR,fast,380
+1041P,Pedopsihiatrična obravnava  - prva,Daruma d.o.o.,fast,380
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM JESENICE,fast,408
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,fast,408
+1041P,Pedopsihiatrična obravnava  - prva,"Zasebna pedopsihiatrična ambulanta Nataša Potočnik Dajčman, dr.med.",fast,408
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM MURSKA SOBOTA,fast,500
+1041P,Pedopsihiatrična obravnava  - prva,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,fast,500
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,fast,500
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM ORMOŽ,fast,530
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,530
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,fast,530
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,fast,592
+1041P,Pedopsihiatrična obravnava  - prva,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,fast,653
+1041P,Pedopsihiatrična obravnava  - prva,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",fast,653
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,fast,683
+1041P,Pedopsihiatrična obravnava  - prva,MLADINSKO KLIMATSKO ZDRAVILIŠČE RAKITNA,fast,895
+1041P,Pedopsihiatrična obravnava  - prva,UNIVERZITETNI KLINIČNI CENTER MARIBOR,veryFast,0
+1041P,Pedopsihiatrična obravnava  - prva,"ZDRAVSTVO BERIC, D.O.O.",veryFast,0
+1041P,Pedopsihiatrična obravnava  - prva,PRAKAŠ MILANKA - PEDOPSIHIATRIČNA AMBULANTA,veryFast,26
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM GORNJA RADGONA,veryFast,57
+1041P,Pedopsihiatrična obravnava  - prva,UKC LJUBLJANA PEDIATRIČNA KLINIKA,veryFast,57
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM SLOVENSKA BISTRICA,veryFast,57
+1041P,Pedopsihiatrična obravnava  - prva,OZG ZDRAVSTVENI DOM KRANJ,veryFast,118
+1041P,Pedopsihiatrična obravnava  - prva,Animula d.o.o.,veryFast,196
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM TRBOVLJE TRBOVLJE,veryFast,227
+1041P,Pedopsihiatrična obravnava  - prva,"Zasebna pedopsihiatrična ambulanta Nataša Potočnik Dajčman, dr.med.",veryFast,257
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM SEVNICA,veryFast,288
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM MURSKA SOBOTA,veryFast,288
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM PIRAN POLIAMBULATORIO PIRANO,veryFast,288
+1041P,Pedopsihiatrična obravnava  - prva,"Psihiatricna in pedopsihiatricna ordinacija  Anja Reljic Princic, dr.med.",veryFast,288
+1041P,Pedopsihiatrična obravnava  - prva,Daruma d.o.o.,veryFast,318
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,318
+1041P,Pedopsihiatrična obravnava  - prva,SPLOŠNA BOLNIŠNICA SLOVENJ GRADEC,veryFast,318
+1041P,Pedopsihiatrična obravnava  - prva,ZAVOD ZA GLUHE IN NAGLUŠNE LJUBLJANA,veryFast,349
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM DOMŽALE,veryFast,380
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM JESENICE,veryFast,380
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM LJUBLJANA - VIČ - RUDNIK,veryFast,380
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,veryFast,380
+1041P,Pedopsihiatrična obravnava  - prva,CENTER ZA SLUH IN GOVOR MARIBOR,veryFast,380
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM ORMOŽ,veryFast,530
+1041P,Pedopsihiatrična obravnava  - prva,"ZDRAVSTVENI DOM DR. FRANCA AMBROŽIČA, POSTOJNA",veryFast,530
+1041P,Pedopsihiatrična obravnava  - prva,ZDRAVSTVENI DOM RAVNE NA KOROŠKEM,veryFast,530
+1041P,Pedopsihiatrična obravnava  - prva,OZG ZDRAVSTVENI DOM ŠKOFJA LOKA,veryFast,653
+1041P,Pedopsihiatrična obravnava  - prva,MLADINSKO KLIMATSKO ZDRAVILIŠČE RAKITNA,veryFast,834
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,ZDRAVSTVENI DOM LOGATEC,regular,0
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,regular,0
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,UNIVERZITETNA PSIHIATRIČNA KLINIKA LJUBLJANA,regular,0
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,regular,15
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,ZDRAVSTVENI DOM LOGATEC,fast,0
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,fast,0
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,UNIVERZITETNA PSIHIATRIČNA KLINIKA LJUBLJANA,fast,0
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,fast,0
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,ZDRAVSTVENI DOM LOGATEC,veryFast,0
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,ZDRAVSTVENI DOM CELJE – Specialistična dejavnost,veryFast,0
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,ZDRAVSTVENI DOM DR. ADOLFA DROLCA MARIBOR,veryFast,0
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,UNIVERZITETNA PSIHIATRIČNA KLINIKA LJUBLJANA,veryFast,1
+1043P,Geriatrični pregled v interni medicini - prvi,UKC LJUBLJANA INTERNA KLINIKA,regular,0
+1043P,Geriatrični pregled v interni medicini - prvi,UKC LJUBLJANA INTERNA KLINIKA,fast,0
